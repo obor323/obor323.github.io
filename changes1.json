@@ -1,0 +1,635 @@
+{
+  "schemaVersion": 1,
+  "updates": [
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl1",
+        "x": 212, 
+        "y": 581,
+        "name": "Centru de printare",
+        "keywords": [
+          "-anwl1",
+          "-anwl",
+          "-anw",
+          "xerox", 
+          "printare", 
+          "indosariere", 
+          "birotica" 
+        ], 
+        "contacts": "",
+        "comments": "Centru mare de printare si articole de birotica." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl2",
+        "x": 217, 
+        "y": 566,
+        "name": "Lenjerie",
+        "keywords": [
+          "-anwl2",
+          "-anwl",
+          "-anw",
+          "lenjerie", 
+          "chiloti_barbatesti", 
+          "lenjerie_intima", 
+          "dama", 
+          "femei", 
+          "barbati" 
+        ], 
+        "contacts": "",
+        "comments": "Lenjerie, magazin destul de mare." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl3",
+        "x": 225, 
+        "y": 551,
+        "name": "Ciorapi dama",
+        "keywords": [
+          "-anwl3",
+          "-anwl",
+          "-anw",
+          "ciorapi_dama" 
+        ], 
+        "contacts": "",
+        "comments": "Ciorapi dama, gama variata." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl4",
+        "x": 231, 
+        "y": 536,
+        "name": "Electrice",
+        "keywords": [
+          "-anwl4",
+          "-anwl",
+          "-anw",
+          "electrice", 
+          "telecomenzi", 
+          "telecomanda", 
+          "baterii", 
+          "lupa_de_masa" 
+        ], 
+        "contacts": "",
+        "comments": "Magazin mic cu diverse electrice." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl5",
+        "x": 236, 
+        "y": 527,
+        "name": "Articole pentru casa si menaj",
+        "keywords": [
+          "-anwl5",
+          "-anwl",
+          "-anw",
+          "casa", 
+          "bucatarie", 
+          "sufragerie", 
+          "cani", 
+          "cana", 
+          "ustensile_bucatarie", 
+          "decoratiuni_interioare", 
+          "flori_artificiale" 
+        ], 
+        "contacts": "",
+        "comments": "Articole de casa si de menaj. Ar trebui vizitat de o femeie care doreste sa isi faca bucataria si sufrageria mai primitoare. Ceasuri mari la aproximativ 350 lei." 
+      }
+    },
+
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl6",
+        "x": 250, 
+        "y": 492,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwl6",
+          "-anwl",
+          "-anw",
+          "haine", 
+          "imbracaminte", 
+          "femei", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Haine pentru femei, ceva mai elegante." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl7",
+        "x": 262, 
+        "y": 461,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwl7",
+          "-anwl",
+          "-anw",
+          "haine", 
+          "imbracaminte", 
+          "femei", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Haine pentru femei, ceva mai elegante." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl8",
+        "x": 273, 
+        "y": 431,
+        "name": "Stofa mobila",
+        "keywords": [
+          "-anwl8",
+          "-anwl",
+          "-anw",
+          "stofa", 
+          "mobila", 
+          "covoare", 
+          "musama", 
+          "traversa", 
+          "mocheta" 
+        ], 
+        "contacts": "",
+        "comments": "Stofa pentru mobila, piele sintetica, covoare, musama si multe altele din aceeasi categorie. Traversa este un covor de plastic lung care poate fi taiat la lungime." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl9",
+        "x": 286, 
+        "y": 411,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwl9",
+          "-anwl",
+          "-anw",
+          "haine", 
+          "imbracaminte", 
+          "femei", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Haine pentru femei, ceva mai scumpe si mai sexy." 
+      }
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl10",
+        "x": 294, 
+        "y": 394,
+        "name": "Imbracaminte copii",
+        "keywords": [
+          "-anwl10",
+          "-anwl",
+          "-anw",
+          "imbracaminte_copii", 
+          "haine_copii", 
+          "bumbac" 
+        ], 
+        "contacts": "",
+        "comments": "Haine din bumbac pentru copii, ieftinite la jumate in mai 2026."
+      }
+    },
+
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl11",
+        "x": 330, 
+        "y": 316,
+        "name": "Imbracaminte copii",
+        "keywords": [
+          "-anwl11",
+          "-anwl",
+          "-anw", 
+          "imbracaminte_copii", 
+          "haine_copii", 
+          "pantofi_copii", 
+          "incaltaminte_copii" 
+        ],
+        "contacts": "",
+        "comments": "Gama foarte variata de haine (bumbac si plastic) si incaltaminte pentru copii."
+      }
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl12",
+        "x": 337, 
+        "y": 301,
+        "name": "Lenjerie",
+        "keywords": [
+          "-anwl12",
+          "-anwl",
+          "-anw",
+          "lenjerie",
+          "batiste", 
+          "fata_de_perna", 
+          "fete_de_perna", 
+          "bumbac", 
+          "fata_de_masa", 
+          "fete_de_masa", 
+          "cearsafuri" 
+        ],
+        "contacts": "",
+        "comments": "Lenjerie din bumbac"
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl13",
+        "x": 339, 
+        "y": 288,
+        "name": "electrice",
+        "keywords": [
+          "-anwl13",
+          "-anwl",
+          "-anw",
+          "electrice", 
+          "becuri", 
+          "veioze", 
+          "baterii", 
+          "telecomenzi" 
+        ], 
+        "contacts": "",
+        "comments": "Electrice variate din categoria celor din cuvintele cheie." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl14",
+        "x": 351, 
+        "y": 276,
+        "name": "ING",
+        "keywords": [
+          "-anwl14",
+          "-anwl",
+          "-anw",
+          "ing", 
+          "banca" 
+        ], 
+        "contacts": "",
+        "comments": "Aceasta intrare este inchisa, se intra numai de pe Sos. Colentina." 
+      }
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl15",
+        "x": 360, 
+        "y": 273,
+        "name": "Adimai",
+        "keywords": [
+          "-anwl15",
+          "-anwl",
+          "-anw",
+          "vatelina", 
+          "tesaturi", 
+          "fete_de_pat", 
+          "fata_de_pat" 
+        ], 
+        "contacts": "",
+        "comments": "Au o gama variata de tesaturi folosite ca fete de canapea, pat etc. Vatelina este o folie de burete folosita pentru canapele, paturi sau orice altceva." 
+      } 
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl16",
+        "x": 367, 
+        "y": 267,
+        "name": "Produse din piele",
+        "keywords": [
+          "-anwl16",
+          "-anwl",
+          "-anw",
+          "genti", 
+          "sacose", 
+          "valize", 
+          "curele", 
+          "piele" 
+        ],
+        "contacts": "",
+        "comments": "Produse din piele si plastic, genti, sacose, curele, valize, au curele barbatesti si la 90 lei."
+      }
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl17",
+        "x": 380, 
+        "y": 260,
+        "name": "Plantfestin",
+        "keywords": [
+          "-anwl17",
+          "-anwl",
+          "-anw",
+          "plantfestin",
+          "detergent",
+          "sapun", 
+          "cosmetice", 
+          "bio", 
+          "organic",
+          "eco",
+          "ecologic", 
+          "naturist", 
+          "aliment", 
+          "ceai",
+          "mancare", 
+          "mincare" 
+        ],
+        "contacts": "",
+        "comments": "Magazin naturist mare cu o gama larga de produse"
+      }
+    },
+
+
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr1", 
+        "x": 245, 
+        "y": 564,
+        "name": "Moneygold",
+        "keywords": [
+          "-anwr1",
+          "-anwr",
+          "-anw",
+          "exchange", 
+          "casa_de_schimb_valutar", 
+          "schimb_valutar", 
+          "valuta", 
+          "amanet", 
+          "bijuterii", 
+          "telefoane", 
+          "electronice", 
+          "ceasuri" 
+        ], 
+        "contacts": "",
+        "comments": "Casa de schimb valutar, amanet, magazin de bijuterii si electronice." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr2", 
+        "x": 268, 
+        "y": 517,
+        "name": "Spatiu liber",
+        "keywords": [
+          "-anwr2",
+          "-anwr",
+          "-anw",
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "disponibil", 
+          "inchiriat" 
+        ], 
+        "contacts": "",
+        "comments": "Spatiu comercial liber de inchiriat." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr3", 
+        "x": 281, 
+        "y": 482,
+        "name": "Spatiu liber",
+        "keywords": [
+          "-anwr3",
+          "-anwr",
+          "-anw",
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "disponibil", 
+          "inchiriat" 
+        ], 
+        "contacts": "",
+        "comments": "Spatiu comercial liber de inchiriat." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr4", 
+        "x": 293, 
+        "y": 457,
+        "name": "Imbracaminte femei", 
+        "keywords": [
+          "-anwr4",
+          "-anwr",
+          "-anw",
+          "haine", 
+          "imbracaminte", 
+          "femei", 
+          "dama", 
+          "bluze", 
+          "rochii" 
+        ], 
+        "contacts": "",
+        "comments": "Haine femei ceva mai finute." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr5", 
+        "x": 304, 
+        "y": 427,
+        "name": "Posete si curele din piele",
+        "keywords": [
+          "-anwr5",
+          "-anwr",
+          "-anw",
+          "posete", 
+          "curele", 
+          "piele" 
+        ], 
+        "contacts": "",
+        "comments": "Posete si curele din piele fina fabricata in Italia." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr6", 
+        "x": 318, 
+        "y": 397,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwr6",
+          "-anwr",
+          "-anw",
+          "haine", 
+          "imbracaminte", 
+          "femei", 
+          "dama", 
+          "rochii" 
+        ], 
+        "contacts": "",
+        "comments": "Rochii femei, ceva mai stilate." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr7", 
+        "x": 328, 
+        "y": 373,
+        "name": "Incaltaminte femei",
+        "keywords": [
+          "-anwr7",
+          "-anwr",
+          "-anw",
+          "incaltaminte", 
+          "pantofi", 
+          "femei", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Incaltaminte femei, sport si pantofi cu toc." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr8", 
+        "x": 339, 
+        "y": 347,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwr8",
+          "-anwr",
+          "-anw",
+          "exchange", 
+          "imbracaminte", 
+          "femei", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Camasi de noapte elegante." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr9", 
+        "x": 346, 
+        "y": 331,
+        "name": "Incaltaminte femei",
+        "keywords": [
+          "-anwr9",
+          "-anwr",
+          "-anw", 
+          "incaltaminte", 
+          "pantofi", 
+          "femei", 
+          "dama"
+        ], 
+        "contacts": "",
+        "comments": "Pantofi femei." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr10", 
+        "x": 354, 
+        "y": 303,
+        "name": "Automat cafea",
+        "keywords": [
+          "-anwr10",
+          "-anwr",
+          "-anw",
+          "cafea" 
+        ], 
+        "contacts": "",
+        "comments": "Automat mare pentru cafea cu lapte, cred ca functioneaza." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr11", 
+        "x": 367, 
+        "y": 292,
+        "name": "Mercerie",
+        "keywords": [
+          "-anwr11",
+          "-anwr",
+          "-anw",
+          "snururi", 
+          "panglici", 
+          "tesaturi" 
+        ], 
+        "contacts": "",
+        "comments": "Magazin mare cu produse similare cu cele din cuvintele cheie." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr12", 
+        "x": 384, 
+        "y": 284,
+        "name": "Haine de blana",
+        "keywords": [
+          "-anwr12",
+          "-anwr",
+          "-anw",
+          "haine", 
+          "imbracaminte", 
+          "blana" 
+        ], 
+        "contacts": "",
+        "comments": "Haine de blana" 
+      }
+    } 
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
