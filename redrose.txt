@@ -1,1 +1,13 @@
 this is redrose
+this is a new line 
+
+and this is two new lines 
+
+^^ another new line 
+
+**bold** 
+
+
+
+
+
