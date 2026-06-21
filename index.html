@@ -17,6 +17,7 @@
             margin: 0 auto;
             padding: 2rem;
             line-height: 1.6;
+            color: #000;
         }
 
        .english {
@@ -37,9 +38,13 @@
             transition: background 0.2s ease, transform 0.1s ease;
         }
 
+        .download-button .english {
+            color: inherit;
+        }
+
         .download-button {
             background: #ff8c00;   /* dark orange */
-            color: #ffffff;
+            color: #000000;
         }
     
         .download-button:active {
@@ -59,7 +64,7 @@
         }
 
         .download-button:hover {
-            background: rgba(128,128,128,0.1);
+            filter: brightness(1.1);
         }
 
         .center {
