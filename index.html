@@ -11,6 +11,11 @@
             text-align: center;
         }
 
+        h2 {
+            font-size: 1rem;
+            margin: 0 0 0.5rem 0;
+        }
+
         body {
             font-family: sans-serif;
             max-width: 800px;
@@ -28,26 +33,23 @@
  
         .download-button {
             display: inline-block;
-            padding: 14px 26px;
+            padding: 16px 32px;
             text-decoration: none;
             border-radius: 8px;
             text-align: center;
 
             font-weight: bold;
             border: none;
-            transition: background 0.2s ease, transform 0.1s ease;
+
+            background: #ff8c00;   /* dark orange */
+            color: #000;
         }
 
         .download-button .english {
             color: inherit;
         }
 
-        .download-button {
-            font-size: inherit;
-            background: #ff8c00;   /* dark orange */
-            color: #000000;
-        }
-    
+   
         .download-button:active {
             transform: scale(0.98);
         }
@@ -55,17 +57,12 @@
         .button-title {
             display: block;
             font-size: 1.1rem;
-            font-weight: bold;
         }
 
         .button-subtitle {
             display: block;
             font-size: 0.9rem;
             margin-top: 2px;
-        }
-
-        .download-button:hover {
-            filter: brightness(1.1);
         }
 
         .center {
@@ -118,7 +115,7 @@
     </p>
 
     <div class="notice"> 
-        <p><strong>Confidențialitate </strong></p>
+        <h2>Confidențialitate </h2>
 
         <p>
             Aplicația nu colectează, nu stochează și nu transmite informații personale despre utilizatori. 
@@ -130,7 +127,7 @@
     </div>
 
     <div class="notice english" lang="en">
-        <p><strong>Privacy </strong></p>
+        <h2 class="english" lang="en">Privacy </h2>
 
         <p>The application does not collect, store, or transmit personal information about its users. </p>
 
