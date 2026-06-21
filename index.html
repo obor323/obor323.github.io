@@ -27,11 +27,23 @@
  
         .download-button {
             display: inline-block;
-            padding: 12px 24px;
+            padding: 14px 26px;
             text-decoration: none;
-            border-radius: 6px;
-            border: 1px solid #444;
+            border-radius: 8px;
             text-align: center;
+
+            font-weight: bold;
+            border: none;
+            transition: background 0.2s ease, transform 0.1s ease;
+        }
+
+        .download-button {
+            background: #ff8c00;   /* dark orange */
+            color: #ffffff;
+        }
+    
+        .download-button:active {
+            transform: scale(0.98);
         }
 
         .button-title {
@@ -63,20 +75,12 @@
         }
 
         @media (prefers-color-scheme: dark) {
-            body {
-                background: #121212;
-                color: #e0e0e0;
-            }
-
             .download-button {
-                border-color: #888;
-                color: #e0e0e0;
-            }
-
-            .english {
-                color: #b0b0b0;
+                background: #ffd54f;   /* warm yellow */
+                color: #1a1a1a;
             }
         }
+
     </style>
 </head>
 <body>
@@ -90,6 +94,14 @@
     <p class="english" lang="en">
         Map of the Bucur Obor mall in Bucharest 
     </p>
+
+    <div class="center">
+        <a class="download-button"
+            href="obor.apk" download>
+            <span class="button-title">Descarcă aplicația</span>
+            <span class="english button-subtitle" lang="en">Download APK</span>
+        </a>
+    </div>
 
     <p>
         Android poate afișa un avertisment înainte de instalare deoarece aplicația este distribuită direct de dezvoltator, nu prin Google Play. Acest lucru este normal. După descărcarea fișierului APK, urmați instrucțiunile pentru a finaliza instalarea. 
@@ -119,14 +131,6 @@
         <p>
             The application may contact its update server to keep its data up to date. These requests may generate standard technical server logs (for example, the IP address, date, and time of access). This information is used exclusively for operating the service and estimating the number of application users, and is not retained longer than necessary.
         </p>
-    </div>
-
-    <div class="center">
-        <a class="download-button"
-            href="obor.apk" download>
-            <span class="button-title">Descarcă aplicația</span>
-            <span class="english button-subtitle" lang="en">Download APK</span>
-        </a>
     </div>
 
 </body>
