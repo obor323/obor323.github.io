@@ -12,7 +12,7 @@
         }
 
         h2 {
-            font-size: 1rem;
+            font-size: 1.2rem;
             margin: 0 0 0.5rem 0;
         }
 
@@ -25,12 +25,19 @@
             color: #000;
         }
 
-       .english {
+        .english {
             font-style: italic;
-            font-size: 0.9em;
             color: #666;
         }
- 
+
+        p.english {
+            font-size: 0.9em;
+        }
+
+        h2.english {
+            font-size: 1.08rem;
+        }
+
         .download-button {
             display: inline-block;
             padding: 16px 32px;
@@ -45,10 +52,6 @@
             color: #000;
         }
 
-        .download-button .english {
-            color: inherit;
-        }
-
         .download-button:active {
             background: #81d4fa;
         }
@@ -58,9 +61,10 @@
             font-size: 1.1rem;
         }
 
-        .button-subtitle {
+        .download-button .english {
             display: block;
             font-size: 0.9rem;
+            color: inherit;
             margin-top: 2px;
         }
 
@@ -74,6 +78,10 @@
             font-size: 0.8rem;
             border-top: 1px solid #888;
             padding-top: 1rem;
+        }
+
+        .notice.english p {
+            font-size: 0.9em;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -113,7 +121,7 @@
         <a class="download-button"
             href="obor.apk" download>
             <span class="button-title">Descarcă aplicația</span>
-            <span class="button-subtitle english" lang="en">Download APK</span>
+            <span class="english" lang="en">Download APK</span>
         </a>
     </div>
 
@@ -128,7 +136,7 @@
     </p>
 
     <div class="notice"> 
-        <h2>Confidențialitate </h2>
+        <h2>Confidențialitate</h2>
 
         <p>
             Aplicația nu colectează, nu stochează și nu transmite informații personale despre utilizatori. 
@@ -140,7 +148,7 @@
     </div>
 
     <div class="notice english" lang="en">
-        <h2 class="english" lang="en">Privacy </h2>
+        <h2 class="english">Privacy</h2>
 
         <p>The application does not collect, store, or transmit personal information about its users. </p>
 
