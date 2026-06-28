@@ -14,6 +14,7 @@
           "-anw",
           "xerox", 
           "printare", 
+          "copy_center", 
           "indosariere", 
           "birotica" 
         ], 
@@ -34,10 +35,16 @@
           "-anw",
           "lenjerie", 
           "chiloti_barbatesti", 
+          "underwear", 
+          "linen", 
+          "lingerie", 
+          "bedding", 
           "lenjerie_intima", 
           "dama", 
           "femei", 
-          "barbati" 
+          "women", 
+          "barbati", 
+          "men" 
         ], 
         "contacts": "",
         "comments": "Lenjerie, magazin destul de mare." 
@@ -54,7 +61,9 @@
           "-anwl3",
           "-anwl",
           "-anw",
-          "ciorapi_dama" 
+          "ciorapi_dama", 
+          "stockings", 
+          "women" 
         ], 
         "contacts": "",
         "comments": "Ciorapi dama, gama variata." 
@@ -74,7 +83,10 @@
           "electrice", 
           "telecomenzi", 
           "telecomanda", 
+          "remote_controls", 
           "baterii", 
+          "electric_battery", 
+          "batteries", 
           "lupa_de_masa" 
         ], 
         "contacts": "",
@@ -94,11 +106,16 @@
           "-anw",
           "casa", 
           "bucatarie", 
+          "kitchen", 
           "sufragerie", 
+          "living_room", 
           "cani", 
+          "mugs", 
           "cana", 
           "ustensile_bucatarie", 
+          "appliances", 
           "decoratiuni_interioare", 
+          "decors", 
           "flori_artificiale" 
         ], 
         "contacts": "",
@@ -118,8 +135,10 @@
           "-anwl",
           "-anw",
           "haine", 
+          "clothes", 
           "imbracaminte", 
           "femei", 
+          "women", 
           "dama" 
         ], 
         "contacts": "",
@@ -138,8 +157,10 @@
           "-anwl",
           "-anw",
           "haine", 
+          "clothes", 
           "imbracaminte", 
           "femei", 
+          "women", 
           "dama" 
         ], 
         "contacts": "",
@@ -157,10 +178,15 @@
           "-anwl8",
           "-anwl",
           "-anw",
-          "stofa", 
+          "stofe", 
+          "fabrics", 
+          "clothes", 
           "mobila", 
+          "furniture", 
           "covoare", 
+          "carpets", 
           "musama", 
+          "oilcloth", 
           "traversa", 
           "mocheta" 
         ], 
@@ -180,8 +206,10 @@
           "-anwl",
           "-anw",
           "haine", 
+          "clothes", 
           "imbracaminte", 
           "femei", 
+          "women", 
           "dama" 
         ], 
         "contacts": "",
@@ -200,8 +228,10 @@
           "-anwl",
           "-anw",
           "imbracaminte_copii", 
+          "children_clothes", 
           "haine_copii", 
-          "bumbac" 
+          "bumbac", 
+          "cotton" 
         ], 
         "contacts": "",
         "comments": "Haine din bumbac pentru copii, ieftinite la jumate in mai 2026."
@@ -221,7 +251,9 @@
           "-anw", 
           "imbracaminte_copii", 
           "haine_copii", 
+          "children_clothes", 
           "pantofi_copii", 
+          "children_shoes", 
           "incaltaminte_copii" 
         ],
         "contacts": "",
@@ -240,13 +272,19 @@
           "-anwl",
           "-anw",
           "lenjerie",
+          "linen", 
           "batiste", 
+          "handkerchief", 
           "fata_de_perna", 
           "fete_de_perna", 
+          "pillowcases", 
           "bumbac", 
+          "cotton", 
           "fata_de_masa", 
+          "tablecloth", 
           "fete_de_masa", 
-          "cearsafuri" 
+          "cearsafuri", 
+          "bed_sheet" 
         ],
         "contacts": "",
         "comments": "Lenjerie din bumbac"
@@ -265,9 +303,13 @@
           "-anw",
           "electrice", 
           "becuri", 
+          "light_bulbs", 
           "veioze", 
+          "lamps", 
           "baterii", 
-          "telecomenzi" 
+          "batteries", 
+          "telecomenzi", 
+          "remote_controls" 
         ], 
         "contacts": "",
         "comments": "Electrice variate din categoria celor din cuvintele cheie." 
@@ -285,7 +327,8 @@
           "-anwl",
           "-anw",
           "ing", 
-          "banca" 
+          "banca", 
+          "bank" 
         ], 
         "contacts": "",
         "comments": "Aceasta intrare este inchisa, se intra numai de pe Sos. Colentina." 
@@ -305,7 +348,9 @@
           "vatelina", 
           "tesaturi", 
           "fete_de_pat", 
-          "fata_de_pat" 
+          "fata_de_pat", 
+          "linen", 
+          "bedding" 
         ], 
         "contacts": "",
         "comments": "Au o gama variata de tesaturi folosite ca fete de canapea, pat etc. Vatelina este o folie de burete folosita pentru canapele, paturi sau orice altceva." 
@@ -323,10 +368,16 @@
           "-anwl",
           "-anw",
           "genti", 
+          "bags", 
+          "cases", 
           "sacose", 
           "valize", 
+          "suitcases", 
           "curele", 
-          "piele" 
+          "belts", 
+          "waist-belts", 
+          "piele", 
+          "leather" 
         ],
         "contacts": "",
         "comments": "Produse din piele si plastic, genti, sacose, curele, valize, au curele barbatesti si la 90 lei."
@@ -347,13 +398,16 @@
           "detergent",
           "sapun", 
           "cosmetice", 
+          "cosmetics", 
           "bio", 
           "organic",
           "eco",
           "ecologic", 
           "naturist", 
           "aliment", 
+          "food", 
           "ceai",
+          "tee", 
           "mancare", 
           "mincare" 
         ],
@@ -374,15 +428,20 @@
           "-anwr1",
           "-anwr",
           "-anw",
-          "exchange", 
           "casa_de_schimb_valutar", 
           "schimb_valutar", 
+          "exchange", 
           "valuta", 
           "amanet", 
-          "bijuterii", 
+          "pawnshop", 
+          "bijuterii",
+          "jewelry", 
           "telefoane", 
+          "phones", 
           "electronice", 
-          "ceasuri" 
+          "electornics", 
+          "ceasuri", 
+          "watches" 
         ], 
         "contacts": "",
         "comments": "Casa de schimb valutar, amanet, magazin de bijuterii si electronice." 
@@ -402,8 +461,12 @@
           "spatiu", 
           "comercial", 
           "liber", 
+          "free_space", 
+          "available", 
+          "empty", 
           "disponibil", 
-          "inchiriat" 
+          "inchiriat", 
+          "to_let" 
         ], 
         "contacts": "",
         "comments": "Spatiu comercial liber de inchiriat." 
@@ -423,8 +486,12 @@
           "spatiu", 
           "comercial", 
           "liber", 
+          "free_space", 
+          "available", 
+          "empty", 
           "disponibil", 
-          "inchiriat" 
+          "inchiriat", 
+          "to_let" 
         ], 
         "contacts": "",
         "comments": "Spatiu comercial liber de inchiriat." 
@@ -442,11 +509,16 @@
           "-anwr",
           "-anw",
           "haine", 
+          "clothes", 
           "imbracaminte", 
           "femei", 
+          "women", 
           "dama", 
           "bluze", 
-          "rochii" 
+          "blouse", 
+          "shirt", 
+          "rochii", 
+          "dresses" 
         ], 
         "contacts": "",
         "comments": "Haine femei ceva mai finute." 
@@ -464,8 +536,13 @@
           "-anwr",
           "-anw",
           "posete", 
+          "handbags", 
+          "purses", 
           "curele", 
-          "piele" 
+          "belts", 
+          "waist_belts", 
+          "piele", 
+          "leather" 
         ], 
         "contacts": "",
         "comments": "Posete si curele din piele fina fabricata in Italia." 
@@ -483,10 +560,13 @@
           "-anwr",
           "-anw",
           "haine", 
+          "clothes", 
           "imbracaminte", 
+          "women", 
           "femei", 
           "dama", 
-          "rochii" 
+          "rochii", 
+          "dresses" 
         ], 
         "contacts": "",
         "comments": "Rochii femei, ceva mai stilate." 
@@ -505,7 +585,9 @@
           "-anw",
           "incaltaminte", 
           "pantofi", 
+          "shoes", 
           "femei", 
+          "women", 
           "dama" 
         ], 
         "contacts": "",
@@ -523,9 +605,10 @@
           "-anwr8",
           "-anwr",
           "-anw",
-          "exchange", 
           "imbracaminte", 
+          "clothes", 
           "femei", 
+          "women", 
           "dama" 
         ], 
         "contacts": "",
@@ -544,8 +627,10 @@
           "-anwr",
           "-anw", 
           "incaltaminte", 
+          "shoes", 
           "pantofi", 
           "femei", 
+          "women", 
           "dama"
         ], 
         "contacts": "",
@@ -563,7 +648,8 @@
           "-anwr10",
           "-anwr",
           "-anw",
-          "cafea" 
+          "cafea", 
+          "coffee" 
         ], 
         "contacts": "",
         "comments": "Automat mare pentru cafea cu lapte, cred ca functioneaza." 
@@ -581,8 +667,13 @@
           "-anwr",
           "-anw",
           "snururi", 
+          "cords", 
+          "strings", 
+          "ties", 
           "panglici", 
-          "tesaturi" 
+          "ribbons", 
+          "tesaturi", 
+          "fabrics" 
         ], 
         "contacts": "",
         "comments": "Magazin mare cu produse similare cu cele din cuvintele cheie." 
@@ -600,8 +691,10 @@
           "-anwr",
           "-anw",
           "haine", 
+          "clothes", 
           "imbracaminte", 
-          "blana" 
+          "blana", 
+          "fur" 
         ], 
         "contacts": "",
         "comments": "Haine de blana" 
