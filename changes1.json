@@ -4,24 +4,1226 @@
     { 
       "action": "insert",
       "marker": {
-        "id": "-anwl1",
-        "x": 212, 
-        "y": 581,
-        "name": "Centru de printare",
+        "id": "-aml1", 
+        "x": 0, 
+        "y": 0, 
+        "name": "", 
         "keywords": [
-          "-anwl1",
-          "-anwl",
-          "-anw",
-          "xerox", 
-          "printare", 
-          "copy_center", 
-          "indosariere", 
-          "birotica" 
+          "-aml1", 
+          "-aml", 
+          "-am", 
+          "accesorii", 
+          "gsm", 
+          "telefoane", 
+          "phones", 
+          "cell_phones", 
+          "smart", 
+          "accessories" 
         ], 
-        "contacts": "",
-        "comments": "Centru mare de printare și articole de birotică." 
+        "contacts": "", 
+        "comments": "Accesorii GSM, folii gratuite." 
       }
     }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "diverse", 
+        "si mai diverse" 
+      ]
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc1", 
+        "x": 0, 
+        "y": 0, 
+        "name": "", 
+        "keywords": [
+          "-amc1", 
+          "-amc", 
+          "-am", 
+          "bank", 
+          "banca", 
+          "bani", 
+          "numerar", 
+          "cash", 
+          "money", 
+          "depuneri", 
+          "retrageri", 
+          "deposits", 
+          "withdrawals", 
+          "automat", 
+          "atm" 
+        ], 
+        "contacts": "", 
+        "comments": "Automat pentru depuneri si retrageri de numerar pentru Visa si multe alte carduri." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc2", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amc2", 
+          "-amc", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml2", 
+        "x": 0, 
+        "y": 0, 
+        "name": "", 
+        "keywords": [
+          "-aml2", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "amanet", 
+          "pawn_shop" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc3", 
+        "x": 0, 
+        "y": 0, 
+        "name": "", 
+        "keywords": [
+          "-amc3", 
+          "-amc", 
+          "-am", 
+          "schimb_valutar", 
+          "valuta", 
+          "exchange", 
+          "dolari", 
+          "euro", 
+          "dollars", 
+          "euros" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml3", 
+        "x": 0, 
+        "y": 0, 
+        "name": "", 
+        "keywords": [
+          "-aml3", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc4", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amc4", 
+          "-amc", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml4", 
+        "x": 0, 
+        "y": 0, 
+        "name": "", 
+        "keywords": [
+          "-aml4", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc5", 
+        "x": 0, 
+        "y": 0, 
+        "name": "", 
+        "keywords": [
+          "-amc5", 
+          "-amc", 
+          "-am", 
+          "curele_ceasuri", 
+          "ceasuri" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl5",
+        "x": 212, 
+        "y": 581,
+        "name": "Spatiu liber",
+        "keywords": [
+          "-anwl5",
+          "-anwl",
+          "-anw",
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Aici a fost supermarketul Auchan la subsol, acum e inchis, spatiu liber." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc6", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amc6", 
+          "-amc", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber, ceva mai mare, de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc7", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amc7", 
+          "-amc", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml6", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-aml6", 
+          "-aml", 
+          "-am", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc8", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Parfumuri", 
+        "keywords": [
+          "-amc8", 
+          "-amc", 
+          "-am", 
+          "parfumuri", 
+          "perfume", 
+          "scent", 
+          "femei", 
+          "barbati", 
+          "women", 
+          "men" 
+        ], 
+        "contacts": "", 
+        "comments": "Parfumuri de calitate, le puteti verifica." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml7", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Croitorie", 
+        "keywords": [
+          "-aml7", 
+          "-aml", 
+          "-am", 
+          "croitorie", 
+          "taylor_shop", 
+          "tayloring", 
+          "retusuri", 
+          "reparatii", 
+          "alterations", 
+          "femei", 
+          "barbati", 
+          "women", 
+          "men" 
+        ], 
+        "contacts": "", 
+        "comments": "Parfumuri de calitate, le puteti verifica." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml8", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml8", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "reparatii", 
+          "repairs" 
+        ], 
+        "contacts": "", 
+        "comments": "Reparatii de bijuterii" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc9", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Machiaje", 
+        "keywords": [
+          "-amc9", 
+          "-amc", 
+          "-am", 
+          "machiaje", 
+          "cosmetice", 
+          "makeup", 
+          "cosmetics" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml9", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Haine femei", 
+        "keywords": [
+          "-aml9", 
+          "-aml", 
+          "-am", 
+          "haine", 
+          "femei", 
+          "rochii", 
+          "clothes", 
+          "women", 
+          "dresses" 
+        ], 
+        "contacts": "", 
+        "comments": "Haine femei, rochii" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml10", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii Celine Gold", 
+        "keywords": [
+          "-aml10", 
+          "-aml", 
+          "-am", 
+          "celine", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml11", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Costume barbati", 
+        "keywords": [
+          "-aml11", 
+          "-aml", 
+          "-am", 
+          "barbati", 
+          "haine", 
+          "cravate", 
+          "ties", 
+          "suit_ties", 
+          "costume", 
+          "butoniere", 
+          "clothes", 
+          "suits", 
+          "buttons" 
+        ], 
+        "contacts": "", 
+        "comments": "Costume barbati si accesorii, calitate mai buna." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml12", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml12", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml13", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Automat plati", 
+        "keywords": [
+          "-aml13", 
+          "-aml", 
+          "-am", 
+          "automat", 
+          "plati", 
+          "telefoane", 
+          "paypoint", 
+          "mobile", 
+          "cell_phones", 
+          "subscription" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml14", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii Celine Gold", 
+        "keywords": [
+          "-aml14", 
+          "-aml", 
+          "-am", 
+          "celine", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml15", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Taioare femei", 
+        "keywords": [
+          "-aml15", 
+          "-aml", 
+          "-am", 
+          "haine", 
+          "femei", 
+          "taioare", 
+          "suits", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml16", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml16", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml17", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml17", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc10", 
+        "x": 0, 
+        "y": 0, 
+        "name": "", 
+        "keywords": [
+          "-amc10", 
+          "-amc", 
+          "-am", 
+          "inchis", 
+          "accesortii", 
+          "gsm" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc11", 
+        "x": 0, 
+        "y": 0, 
+        "name": "", 
+        "keywords": [
+          "-amc11", 
+          "-amc", 
+          "-am", 
+          "hainaur" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml18", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Poli", 
+        "keywords": [
+          "-aml18", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "reparatii", 
+          "jewelry", 
+          "repairs" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml19", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml19", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc12", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-amc12", 
+          "-amc", 
+          "-am", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml20", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Praser Gold", 
+        "keywords": [
+          "-aml20", 
+          "-aml", 
+          "-am", 
+          "praser", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc13", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Telefoane", 
+        "keywords": [
+          "-amc13", 
+          "-amc", 
+          "-am", 
+          "acesorii", 
+          "gsm", 
+          "telefoane", 
+          "cartele", 
+          "phones", 
+          "accessories", 
+          "subscriptions", 
+          "cell_phones", 
+          "yoxo" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+
+
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-1", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Genti si valize", 
+        "keywords": [
+          "-amr-1", 
+          "-amr", 
+          "-am", 
+          "genti", 
+          "valize" 
+        ], 
+        "contacts": "", 
+        "comments": "Genti si valize, multe modele si dimensiuni" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-2", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Pantofi femei", 
+        "keywords": [
+          "-amr-2", 
+          "-amr", 
+          "-am", 
+          "pantofi", 
+          "femei", 
+          "shoes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-2", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii femei", 
+        "keywords": [
+          "-amr-2", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-3", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii Emir", 
+        "keywords": [
+          "-amr-3", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "Bijuterii mai mari, magazin mare" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-4", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Reparatii bijuterii", 
+        "keywords": [
+          "-amr-4", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "reparatii", 
+          "jewelry", 
+          "women", 
+          "repairs" 
+        ], 
+        "contacts": "", 
+        "comments": "Bijuterii mai mari" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-5", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amr-5", 
+          "-amc", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-6", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Toaleta", 
+        "keywords": [
+          "-amr-6", 
+          "-amr", 
+          "-am", 
+          "toaleta", 
+          "restroom", 
+          "toilet", 
+          "lavatory", 
+          "wc" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-7", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Amiss bijuterii", 
+        "keywords": [
+          "-amr-7", 
+          "-amc", 
+          "-am", 
+          "amiss", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-8", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-amr-8", 
+          "-amc", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women", 
+          "reparatii", 
+          "repairs" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-9", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Ceasuri", 
+        "keywords": [
+          "-amr-9", 
+          "-amc", 
+          "-am", 
+          "curele", 
+          "ceasuri", 
+          "watches", 
+          "wristwatch_straps", 
+          "straps" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-10", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Ceasuri", 
+        "keywords": [
+          "-amr-10", 
+          "-amc", 
+          "-am", 
+          "atelier", 
+          "ceasuri", 
+          "watches", 
+          "workshop" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-11", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-amr-11", 
+          "-amc", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-12", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Empoli", 
+        "keywords": [
+          "-amr-12", 
+          "-amc", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-13", 
+        "x": 268, 
+        "y": 517,
+        "name": "Spatiu liber in curs de amenajare, mare",
+        "keywords": [
+          "-amr-13",
+          "-amr",
+          "-am",
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro",
+        "comments": "Spatiu comercial liber de inchiriat." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-14", 
+        "x": 268, 
+        "y": 517,
+        "name": "Boema",
+        "keywords": [
+          "-amr-14",
+          "-amr",
+          "-am",
+          "perne", 
+          "pillows" 
+        ], 
+        "contacts": "",
+        "comments": "Spatiu mare cu perne" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-15", 
+        "x": 293, 
+        "y": 457,
+        "name": "Imbracaminte femei", 
+        "keywords": [
+          "-amr-15",
+          "-amr",
+          "-am",
+          "haine", 
+          "clothes", 
+          "imbracaminte", 
+          "femei", 
+          "women", 
+          "dama", 
+          "rochii", 
+          "dresses" 
+        ], 
+        "contacts": "",
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-16", 
+        "x": 293, 
+        "y": 457,
+        "name": "Pantofi femei", 
+        "keywords": [
+          "-amr-16",
+          "-amr",
+          "-am",
+          "pantofi", 
+          "femei", 
+          "shoes", 
+          "women" 
+        ], 
+        "contacts": "",
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-17", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Taioare femei si costume barbati", 
+        "keywords": [
+          "-amr-17", 
+          "-amr", 
+          "-am", 
+          "haine", 
+          "femei", 
+          "taioare", 
+          "suits", 
+          "women", 
+          "barbati", 
+          "haine", 
+          "costume", 
+          "clothes", 
+          "suits" 
+        ], 
+        "contacts": "", 
+        "comments": "Taioare femei colorate is costume barbati" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-18", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bigotti", 
+        "keywords": [
+          "-amr-18", 
+          "-amr", 
+          "-am", 
+          "pantofi", 
+          "costume", 
+          "barbati", 
+          "shoes", 
+          "suits", 
+          "elegant", 
+          "fashion" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-19", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-amr-19", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-20", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-amr-20", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-21", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Reparatii gravura", 
+        "keywords": [
+          "-amr-21", 
+          "-amr", 
+          "-am", 
+          "reparatii", 
+          "gravura", 
+          "repairs", 
+          "engravings", 
+          "carvings" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr-22", 
+        "x": 0, 
+        "y": 0, 
+        "name": "Reparatii bijuterii", 
+        "keywords": [
+          "-amr-22", 
+          "-amr", 
+          "-am", 
+          "reparatii", 
+          "repairs", 
+          "bijuterii", 
+          "jewels", 
+          "aur", 
+          "gold" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+
+
+
+
     { 
       "action": "insert",
       "marker": {
@@ -469,7 +1671,7 @@
           "inchiriat", 
           "to_let" 
         ], 
-        "contacts": "",
+        "contacts": "https://bucurobor.ro",
         "comments": "Spatiu comercial liber de inchiriat." 
       }
     }, 
@@ -488,13 +1690,14 @@
           "comercial", 
           "liber", 
           "free_space", 
+          "for_rent", 
           "available", 
           "empty", 
           "disponibil", 
           "inchiriat", 
           "to_let" 
         ], 
-        "contacts": "",
+        "contacts": "https://bucurobor.ro",
         "comments": "Spatiu comercial liber de inchiriat." 
       }
     }, 
