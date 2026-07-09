@@ -2,12 +2,18 @@
   "schemaVersion": 1,
   "updates": [
     { 
+      "action": "comment", 
+      "text": [ 
+        "alley main left start" 
+      ]
+    }, 
+    { 
       "action": "insert",
       "marker": {
         "id": "-aml1", 
-        "x": 0, 
-        "y": 0, 
-        "name": "", 
+        "x": 121, 
+        "y": 631, 
+        "name": "Service GSM", 
         "keywords": [
           "-aml1", 
           "-aml", 
@@ -25,19 +31,12 @@
       }
     }, 
     { 
-      "action": "comment", 
-      "text": [ 
-        "diverse", 
-        "si mai diverse" 
-      ]
-    }, 
-    { 
       "action": "insert",
       "marker": {
         "id": "-amc1", 
-        "x": 0, 
-        "y": 0, 
-        "name": "", 
+        "x": 128, 
+        "y": 650, 
+        "name": "Automat depunere retragere numerar", 
         "keywords": [
           "-amc1", 
           "-amc", 
@@ -63,8 +62,8 @@
       "action": "insert",
       "marker": {
         "id": "-amc2", 
-        "x": 0, 
-        "y": 0, 
+        "x": 142, 
+        "y": 642, 
         "name": "Spatiu liber", 
         "keywords": [
           "-amc2", 
@@ -89,9 +88,9 @@
       "action": "insert",
       "marker": {
         "id": "-aml2", 
-        "x": 0, 
-        "y": 0, 
-        "name": "", 
+        "x": 130, 
+        "y": 623, 
+        "name": "Amanet", 
         "keywords": [
           "-aml2", 
           "-aml", 
@@ -109,9 +108,9 @@
       "action": "insert",
       "marker": {
         "id": "-amc3", 
-        "x": 0, 
-        "y": 0, 
-        "name": "", 
+        "x": 150, 
+        "y": 639, 
+        "name": "Schimb valutar", 
         "keywords": [
           "-amc3", 
           "-amc", 
@@ -132,9 +131,9 @@
       "action": "insert",
       "marker": {
         "id": "-aml3", 
-        "x": 0, 
-        "y": 0, 
-        "name": "", 
+        "x": 162, 
+        "y": 605, 
+        "name": "Bijutarii", 
         "keywords": [
           "-aml3", 
           "-aml", 
@@ -150,8 +149,8 @@
       "action": "insert",
       "marker": {
         "id": "-amc4", 
-        "x": 0, 
-        "y": 0, 
+        "x": 126, 
+        "y": 620, 
         "name": "Spatiu liber", 
         "keywords": [
           "-amc4", 
@@ -176,9 +175,9 @@
       "action": "insert",
       "marker": {
         "id": "-aml4", 
-        "x": 0, 
-        "y": 0, 
-        "name": "", 
+        "x": 186, 
+        "y": 593, 
+        "name": "Bijuterii", 
         "keywords": [
           "-aml4", 
           "-aml", 
@@ -192,12 +191,19 @@
     }, 
 
     { 
+      "action": "comment", 
+      "text": [ 
+        "alley main join alley nw" 
+      ] 
+    }, 
+
+    { 
       "action": "insert",
       "marker": {
         "id": "-amc5", 
-        "x": 0, 
-        "y": 0, 
-        "name": "", 
+        "x": 229, 
+        "y": 598, 
+        "name": "Curele ceasuri", 
         "keywords": [
           "-amc5", 
           "-amc", 
@@ -206,16 +212,23 @@
           "ceasuri" 
         ], 
         "contacts": "", 
-        "comments": "" 
+        "comments": "Curele pentru ceasuri de mina" 
       }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main join alley NW skylight", 
+        "continue 2:29" 
+      ]
     }, 
     { 
       "action": "insert",
       "marker": {
-        "id": "-anwl5",
-        "x": 212, 
-        "y": 581,
-        "name": "Spatiu liber",
+        "id": "-aml5",
+        "x": 250, 
+        "y": 569,
+        "name": "Spatiu liber mare la subsol",
         "keywords": [
           "-anwl5",
           "-anwl",
@@ -235,11 +248,18 @@
       }
     }, 
     { 
+      "action": "comment", 
+      "text": [
+        "alley main", 
+        "perete alb pe stinga dupa fosta intrare la Auchan" 
+      ]
+    }, 
+    { 
       "action": "insert",
       "marker": {
         "id": "-amc6", 
-        "x": 0, 
-        "y": 0, 
+        "x": 250, 
+        "y": 569, 
         "name": "Spatiu liber", 
         "keywords": [
           "-amc6", 
@@ -264,8 +284,8 @@
       "action": "insert",
       "marker": {
         "id": "-amc7", 
-        "x": 0, 
-        "y": 0, 
+        "x": 264, 
+        "y": 579, 
         "name": "Spatiu liber", 
         "keywords": [
           "-amc7", 
@@ -290,9 +310,9 @@
       "action": "insert",
       "marker": {
         "id": "-aml6", 
-        "x": 0, 
-        "y": 0, 
-        "name": "Spatiu liber", 
+        "x": 268, 
+        "y": 555, 
+        "name": "Haine femei", 
         "keywords": [
           "-aml6", 
           "-aml", 
@@ -303,15 +323,22 @@
           "women" 
         ], 
         "contacts": "https://bucurobor.ro", 
-        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+        "comments": "" 
       }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main", 
+        "main.amr3, 3:42" 
+      ] 
     }, 
     { 
       "action": "insert",
       "marker": {
         "id": "-amc8", 
-        "x": 0, 
-        "y": 0, 
+        "x": 285, 
+        "y": 569, 
         "name": "Parfumuri", 
         "keywords": [
           "-amc8", 
@@ -333,8 +360,8 @@
       "action": "insert",
       "marker": {
         "id": "-aml7", 
-        "x": 0, 
-        "y": 0, 
+        "x": 289, 
+        "y": 546, 
         "name": "Croitorie", 
         "keywords": [
           "-aml7", 
@@ -352,15 +379,15 @@
           "men" 
         ], 
         "contacts": "", 
-        "comments": "Parfumuri de calitate, le puteti verifica." 
+        "comments": "Croitorie retusuri reparatii, au si materiale" 
       }
     }, 
     { 
       "action": "insert",
       "marker": {
         "id": "-aml8", 
-        "x": 0, 
-        "y": 0, 
+        "x": 302, 
+        "y": 541, 
         "name": "Bijuterii", 
         "keywords": [
           "-aml8", 
@@ -376,11 +403,18 @@
       }
     }, 
     { 
+      "action": "comment", 
+      "text": [ 
+        "alley main", 
+        "main.amr, 5:30" 
+      ] 
+    }, 
+    { 
       "action": "insert",
       "marker": {
         "id": "-amc9", 
-        "x": 0, 
-        "y": 0, 
+        "x": 324, 
+        "y": 546, 
         "name": "Machiaje", 
         "keywords": [
           "-amc9", 
@@ -399,8 +433,8 @@
       "action": "insert",
       "marker": {
         "id": "-aml9", 
-        "x": 0, 
-        "y": 0, 
+        "x": 312, 
+        "y": 535, 
         "name": "Haine femei", 
         "keywords": [
           "-aml9", 
@@ -421,8 +455,8 @@
       "action": "insert",
       "marker": {
         "id": "-aml10", 
-        "x": 0, 
-        "y": 0, 
+        "x": 327, 
+        "y": 528, 
         "name": "Bijuterii Celine Gold", 
         "keywords": [
           "-aml10", 
@@ -439,11 +473,18 @@
       }
     }, 
     { 
+      "action": "comment", 
+      "text": [ 
+        "alley main join alley diagonal", 
+        "main.amr, 6:17" 
+      ] 
+    }, 
+    { 
       "action": "insert",
       "marker": {
         "id": "-aml11", 
-        "x": 0, 
-        "y": 0, 
+        "x": 355, 
+        "y": 512, 
         "name": "Costume barbati", 
         "keywords": [
           "-aml11", 
@@ -468,8 +509,8 @@
       "action": "insert",
       "marker": {
         "id": "-aml12", 
-        "x": 0, 
-        "y": 0, 
+        "x": 360, 
+        "y": 509, 
         "name": "Bijuterii", 
         "keywords": [
           "-aml12", 
@@ -484,7 +525,13 @@
         "comments": "" 
       }
     }, 
-
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main", 
+        "main.amr, 7:36" 
+      ] 
+    }, 
     { 
       "action": "insert",
       "marker": {
@@ -728,6 +775,14 @@
     }, 
 
 
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main right", 
+        "indexes verified up to here" 
+      ] 
+    }, 
     { 
       "action": "insert",
       "marker": {
@@ -1224,6 +1279,15 @@
 
 
 
+
+
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NW left start" 
+      ] 
+    }, 
     { 
       "action": "insert",
       "marker": {
@@ -1620,6 +1684,12 @@
     },
 
 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NW right start" 
+      ] 
+    }, 
     { 
       "action": "insert",
       "marker": {
