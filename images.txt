@@ -1,4 +1,1 @@
-bluerose.webp
-redrose.webp
-yellowrose.webp
-whiterose.webp
+bucurobor.webp 
