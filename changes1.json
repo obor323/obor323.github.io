@@ -1,0 +1,4530 @@
+{
+  "schemaVersion": 1,
+  "updates": [
+    { 
+      "action": "comment", 
+      "text": [ 
+        "this defines the default database in the release" 
+      ] 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main left start", 
+        "main.amr, 0:00" 
+      ]
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml1", 
+        "x": 121, 
+        "y": 631, 
+        "name": "Service GSM", 
+        "keywords": [
+          "-aml1", 
+          "-aml", 
+          "-am", 
+          "accesorii", 
+          "gsm", 
+          "telefoane", 
+          "phones", 
+          "cell_phones", 
+          "smart", 
+          "accessories" 
+        ], 
+        "contacts": "", 
+        "comments": "Accesorii GSM, folii gratuite." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc1", 
+        "x": 128, 
+        "y": 650, 
+        "name": "Automat depunere / retragere numerar", 
+        "keywords": [
+          "-amc1", 
+          "-amc", 
+          "-am", 
+          "bank", 
+          "banca", 
+          "bani", 
+          "numerar", 
+          "cash", 
+          "money", 
+          "depuneri", 
+          "retrageri", 
+          "deposits", 
+          "withdrawals", 
+          "automat", 
+          "atm" 
+        ], 
+        "contacts": "", 
+        "comments": "Automat pentru depuneri si retrageri de numerar pentru Visa si multe alte carduri." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc1_2", 
+        "x": 137, 
+        "y": 650, 
+        "name": "Automat plati", 
+        "keywords": [
+          "-amc1_2", 
+          "-amc", 
+          "-am", 
+          "automat", 
+          "punct_de_plata", 
+          "plati", 
+          "plata", 
+          "telefoane", 
+          "paypoint", 
+          "mobile", 
+          "cell_phones", 
+          "phones", 
+          "subscription" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc2", 
+        "x": 142, 
+        "y": 642, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amc2", 
+          "-amc", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml2", 
+        "x": 135, 
+        "y": 622, 
+        "name": "Amanet", 
+        "keywords": [
+          "-aml2", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "amanet", 
+          "pawn_shop" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc3", 
+        "x": 167, 
+        "y": 631, 
+        "name": "Schimb valutar", 
+        "keywords": [
+          "-amc3", 
+          "-amc", 
+          "-am", 
+          "schimb_valutar", 
+          "valuta", 
+          "exchange", 
+          "dolari", 
+          "euro", 
+          "dollars", 
+          "euros" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml3", 
+        "x": 160, 
+        "y": 609, 
+        "name": "Bijutarii", 
+        "keywords": [
+          "-aml3", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc4", 
+        "x": 191, 
+        "y": 616, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amc4", 
+          "-amc", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml4", 
+        "x": 182, 
+        "y": 597, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml4", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "main.amr, 1:52", 
+        "alley main join alley nw" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc5", 
+        "x": 222, 
+        "y": 602, 
+        "name": "Curele ceasuri", 
+        "keywords": [
+          "-amc5", 
+          "-amc", 
+          "-am", 
+          "curele_ceasuri", 
+          "ceasuri" 
+        ], 
+        "contacts": "", 
+        "comments": "Curele pentru ceasuri de mina" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main join alley NW skylight" 
+      ]
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml5",
+        "x": 253, 
+        "y": 563,
+        "name": "Spatiu liber mare la subsol XXX",
+        "keywords": [
+          "-aml5",
+          "-aml",
+          "-am",
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Aici a fost supermarketul Auchan la subsol, acum e inchis, spatiu liber." 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [
+        "alley main", 
+        "perete alb pe stinga dupa fosta intrare la Auchan" 
+      ]
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc6", 
+        "x": 245, 
+        "y": 588, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amc6", 
+          "-amc", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber, ceva mai mare, de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc7", 
+        "x": 282, 
+        "y": 569, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amc7", 
+          "-amc", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml6", 
+        "x": 276, 
+        "y": 554, 
+        "name": "Haine femei", 
+        "keywords": [
+          "-aml6", 
+          "-aml", 
+          "-am", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main", 
+        "main.amr, 3:42" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc8", 
+        "x": 294, 
+        "y": 563, 
+        "name": "Parfumuri", 
+        "keywords": [
+          "-amc8", 
+          "-amc", 
+          "-am", 
+          "parfumuri", 
+          "perfume", 
+          "scent", 
+          "femei", 
+          "barbati", 
+          "women", 
+          "men" 
+        ], 
+        "contacts": "", 
+        "comments": "Parfumuri de calitate, le puteti verifica." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml7", 
+        "x": 289, 
+        "y": 546, 
+        "name": "Croitorie", 
+        "keywords": [
+          "-aml7", 
+          "-aml", 
+          "-am", 
+          "croitorie", 
+          "taylor_shop", 
+          "tayloring", 
+          "retusuri", 
+          "reparatii", 
+          "alterations", 
+          "femei", 
+          "barbati", 
+          "women", 
+          "men" 
+        ], 
+        "contacts": "", 
+        "comments": "Croitorie retusuri reparatii, au si materiale" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml8", 
+        "x": 304, 
+        "y": 539, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml8", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "reparatii", 
+          "repairs" 
+        ], 
+        "contacts": "", 
+        "comments": "Reparatii de bijuterii" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main", 
+        "main.amr, 5:30" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc9", 
+        "x": 308, 
+        "y": 555, 
+        "name": "Machiaje", 
+        "keywords": [
+          "-amc9", 
+          "-amc", 
+          "-am", 
+          "machiaje", 
+          "farduri", 
+          "cosmetice", 
+          "makeup", 
+          "cosmetics" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml9", 
+        "x": 315, 
+        "y": 532, 
+        "name": "Haine femei", 
+        "keywords": [
+          "-aml9", 
+          "-aml", 
+          "-am", 
+          "haine", 
+          "femei", 
+          "rochii", 
+          "clothes", 
+          "women", 
+          "dresses" 
+        ], 
+        "contacts": "", 
+        "comments": "Haine femei, rochii" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml10", 
+        "x": 327, 
+        "y": 526, 
+        "name": "Bijuterii Celine Gold", 
+        "keywords": [
+          "-aml10", 
+          "-aml", 
+          "-am", 
+          "celine", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main join alley diagonal", 
+        "main.amr, 6:17" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml11", 
+        "x": 340, 
+        "y": 526, 
+        "name": "Costume barbati", 
+        "keywords": [
+          "-aml11", 
+          "-aml", 
+          "-am", 
+          "barbati", 
+          "haine", 
+          "cravate", 
+          "ties", 
+          "suit_ties", 
+          "costume", 
+          "butoniere", 
+          "clothes", 
+          "suits", 
+          "buttons" 
+        ], 
+        "contacts": "", 
+        "comments": "Costume barbati si accesorii, calitate mai buna." 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aml12", 
+        "x": 343, 
+        "y": 523, 
+        "name": "Bijuterii femei", 
+        "keywords": [
+          "-aml12", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women", 
+          "inele", 
+          "rings" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main", 
+        "main.amr, 7:36" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml13", 
+        "x": 351, 
+        "y": 524, 
+        "name": "Automat plati", 
+        "keywords": [
+          "-aml13", 
+          "-aml", 
+          "-am", 
+          "automat", 
+          "punct_de_plata", 
+          "plati", 
+          "plata", 
+          "telefoane", 
+          "paypoint", 
+          "mobile", 
+          "cell_phones", 
+          "phones", 
+          "subscription" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml14", 
+        "x": 363, 
+        "y": 511, 
+        "name": "Bijuterii Celine Gold", 
+        "keywords": [
+          "-aml14", 
+          "-aml", 
+          "-am", 
+          "celine", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml15", 
+        "x": 398, 
+        "y": 489, 
+        "name": "Taioare femei", 
+        "keywords": [
+          "-aml15", 
+          "-aml", 
+          "-am", 
+          "haine", 
+          "femei", 
+          "taioare", 
+          "suits", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml16", 
+        "x": 413, 
+        "y": 480, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml16", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "main.amr, 8:21" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml17", 
+        "x": 427, 
+        "y": 474, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml17", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc10", 
+        "x": 448, 
+        "y": 484, 
+        "name": "Accesorii telefoane, service GSM", 
+        "keywords": [
+          "-amc10", 
+          "-amc", 
+          "-am", 
+          "accesorii", 
+          "service", 
+          "gsm", 
+          "accessories" 
+        ], 
+        "contacts": "", 
+        "comments": "Service GSM" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc11", 
+        "x": 458, 
+        "y": 479, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-amc11", 
+          "-amc", 
+          "-am", 
+          "bijuterii", 
+          "jewels", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml18", 
+        "x": 444, 
+        "y": 464, 
+        "name": "Poli bijuterii reparatii", 
+        "keywords": [
+          "-aml18", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "reparatii", 
+          "jewelry", 
+          "repairs" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml19", 
+        "x": 455, 
+        "y": 460, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-aml19", 
+          "-aml", 
+          "-am", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc12", 
+        "x": 471, 
+        "y": 472, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-amc12", 
+          "-amc", 
+          "-am", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-aml20", 
+        "x": 468, 
+        "y": 454, 
+        "name": "Praser Gold", 
+        "keywords": [
+          "-aml20", 
+          "-aml", 
+          "-am", 
+          "praser", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amc13", 
+        "x": 481, 
+        "y": 466, 
+        "name": "Telefoane noi, cartele, abonamente", 
+        "keywords": [
+          "-amc13", 
+          "-amc", 
+          "-am", 
+          "acesorii", 
+          "gsm", 
+          "telefoane", 
+          "cartele", 
+          "phones", 
+          "accessories", 
+          "subscriptions", 
+          "cell_phones", 
+          "yoxo" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "main.amr, 14:10", 
+        "alley main right" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr1", 
+        "x": 134, 
+        "y": 672, 
+        "name": "Reparatii bijuterii", 
+        "keywords": [
+          "-amr1", 
+          "-amr", 
+          "-am", 
+          "reparatii", 
+          "repairs", 
+          "bijuterii", 
+          "jewels", 
+          "aur", 
+          "gold" 
+        ], 
+        "contacts": "", 
+        "comments": "Reparatii pe loc aur" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr1_2", 
+        "x": 145, 
+        "y": 667, 
+        "name": "Traser gold", 
+        "keywords": [
+          "-amr1_2", 
+          "-amr", 
+          "-am", 
+          "reparatii", 
+          "repairs", 
+          "bijuterii", 
+          "jewels", 
+          "aur", 
+          "gold" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr2", 
+        "x": 153, 
+        "y": 663, 
+        "name": "Reparatii gravura", 
+        "keywords": [
+          "-amr2", 
+          "-amr", 
+          "-am", 
+          "reparatii", 
+          "gravura", 
+          "repairs", 
+          "engravings", 
+          "carvings" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr3", 
+        "x": 164, 
+        "y": 655, 
+        "name": "Emir Gold", 
+        "keywords": [
+          "-amr3", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr4", 
+        "x": 177, 
+        "y": 647, 
+        "name": "Bijuterii machete", 
+        "keywords": [
+          "-amr4", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr5", 
+        "x": 192, 
+        "y": 641, 
+        "name": "Bigotti", 
+        "keywords": [
+          "-amr5", 
+          "-amr", 
+          "-am", 
+          "pantofi", 
+          "costume", 
+          "barbati", 
+          "shoes", 
+          "suits", 
+          "elegant", 
+          "fashion" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr6", 
+        "x": 210, 
+        "y": 628, 
+        "name": "Taioare femei si costume barbati", 
+        "keywords": [
+          "-amr6", 
+          "-amr", 
+          "-am", 
+          "haine", 
+          "femei", 
+          "taioare", 
+          "suits", 
+          "women", 
+          "barbati", 
+          "haine", 
+          "costume", 
+          "clothes", 
+          "suits" 
+        ], 
+        "contacts": "", 
+        "comments": "Taioare femei colorate si costume barbati" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr7", 
+        "x": 224, 
+        "y": 622,
+        "name": "Pantofi femei", 
+        "keywords": [
+          "-amr7",
+          "-amr",
+          "-am",
+          "pantofi", 
+          "femei", 
+          "shoes", 
+          "women" 
+        ], 
+        "contacts": "",
+        "comments": "Pantofi usori femei" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr7_1", 
+        "x": 245, 
+        "y": 613,
+        "name": "Oja femei", 
+        "keywords": [
+          "-amr7_1",
+          "-amr",
+          "-am",
+          "oja", 
+          "femei", 
+          "nail_polish", 
+          "women" 
+        ], 
+        "contacts": "",
+        "comments": "Oja femei" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "main.amr, 23:01", 
+        "alley main exit 1"
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr8", 
+        "x": 286, 
+        "y": 590,
+        "name": "Imbracaminte femei", 
+        "keywords": [
+          "-amr8",
+          "-amr",
+          "-am",
+          "haine", 
+          "clothes", 
+          "imbracaminte", 
+          "femei", 
+          "women", 
+          "dama", 
+          "rochii", 
+          "dresses" 
+        ], 
+        "contacts": "",
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "main.amr, 22:32", 
+        "alley main large shoes alley" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-amr8_1", 
+        "x": 297, 
+        "y": 584, 
+        "name": "Magazin mare de pantofi", 
+        "keywords": [ 
+          "-amr8_1", 
+          "-amr", 
+          "-am", 
+          "pantofi", 
+          "shoes" 
+        ], 
+        "contacts": "", 
+        "comments": "Magazin mare de pantofi de toate felurile, calitatile si preturile" 
+      } 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr9", 
+        "x": 309, 
+        "y": 578,
+        "name": "Boema",
+        "keywords": [
+          "-amr9",
+          "-amr",
+          "-am",
+          "perne", 
+          "pillows" 
+        ], 
+        "contacts": "",
+        "comments": "Spatiu mare cu perne" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr10", 
+        "x": 322, 
+        "y": 573, 
+        "name": "Spatiu in curs de amenajare, mare",
+        "keywords": [
+          "-amr10",
+          "-amr",
+          "-am",
+          "spatiu", 
+          "comercial" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr11", 
+        "x": 331, 
+        "y": 568, 
+        "name": "Empoli", 
+        "keywords": [
+          "-amr11", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr12", 
+        "x": 341, 
+        "y": 562, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-amr12", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "main.amr, 20:52", 
+        "alley main exit 2" 
+      ]
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr13", 
+        "x": 373, 
+        "y": 543, 
+        "name": "Ceasuri", 
+        "keywords": [
+          "-amr13", 
+          "-amr", 
+          "-am", 
+          "atelier", 
+          "ceasuri", 
+          "watches", 
+          "workshop" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr14", 
+        "x": 383, 
+        "y": 539, 
+        "name": "Ceasuri", 
+        "keywords": [
+          "-amr14", 
+          "-amr", 
+          "-am", 
+          "curele", 
+          "ceasuri", 
+          "watches", 
+          "wristwatch_straps", 
+          "straps" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "main.amr, 19:52", 
+        "alley main join alley diagonal" 
+      ]
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr15", 
+        "x": 396, 
+        "y": 533, 
+        "name": "Bijuterii", 
+        "keywords": [
+          "-amr15", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women", 
+          "reparatii", 
+          "repairs" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr16", 
+        "x": 411, 
+        "y": 524, 
+        "name": "Amiss bijuterii", 
+        "keywords": [
+          "-amr16", 
+          "-amr", 
+          "-am", 
+          "amiss", 
+          "bijuterii", 
+          "jewelry", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr17", 
+        "x": 421, 
+        "y": 519, 
+        "name": "Toaleta", 
+        "keywords": [
+          "-amr17", 
+          "-amr", 
+          "-am", 
+          "toaleta", 
+          "restroom", 
+          "toilet", 
+          "lavatory", 
+          "wc" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr18", 
+        "x": 429, 
+        "y": 515, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-amr18", 
+          "-amr", 
+          "-am", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro", 
+        "comments": "Pare ca e un spatiu liber de inchiriat aici." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr19", 
+        "x": 437, 
+        "y": 510, 
+        "name": "Emir Reparatii bijuterii", 
+        "keywords": [
+          "-amr19", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "reparatii", 
+          "jewelry", 
+          "women", 
+          "repairs", 
+          "emir" 
+        ], 
+        "contacts": "", 
+        "comments": "Bijuterii" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr20", 
+        "x": 446, 
+        "y": 505, 
+        "name": "Bijuterii Emir", 
+        "keywords": [
+          "-amr20", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "Bijuterii, magazin mare" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr21", 
+        "x": 455, 
+        "y": 502, 
+        "name": "Bijuterii femei", 
+        "keywords": [
+          "-amr21", 
+          "-amr", 
+          "-am", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "main.amr, 17:24", 
+        "alley main exit 3" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr22", 
+        "x": 481, 
+        "y": 487, 
+        "name": "Pantofi femei si barbati", 
+        "keywords": [
+          "-amr22", 
+          "-amr", 
+          "-am", 
+          "pantofi", 
+          "femei", 
+          "barbati", 
+          "shoes", 
+          "women", 
+          "men" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-amr23", 
+        "x": 490, 
+        "y": 482, 
+        "name": "Genti si valize", 
+        "keywords": [
+          "-amr23", 
+          "-amr", 
+          "-am", 
+          "genti", 
+          "valize" 
+        ], 
+        "contacts": "", 
+        "comments": "Genti si valize, multe modele si dimensiuni" 
+      }
+    }, 
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main exit 1" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame1", 
+        "x": 258, 
+        "y": 594, 
+        "name": "Iesire", 
+        "keywords": [ 
+          "-ame1", 
+          "-ame", 
+          "-ae", 
+          "iesire", 
+          "evacuare", 
+          "exit" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "mainene.amr, 7:00", 
+        "alley main exit 2", 
+        "right and left are mixed for -ame2" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame2", 
+        "x": 357, 
+        "y": 542, 
+        "name": "Iesire", 
+        "keywords": [ 
+          "-ame2", 
+          "-ame", 
+          "-ae", 
+          "iesire", 
+          "evacuare", 
+          "exit" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame2r1", 
+        "x": 354, 
+        "y": 572, 
+        "name": "Haine si lenjerie", 
+        "keywords": [
+          "-ame2r1",
+          "-ame2r", 
+          "-ame2", 
+          "haine", 
+          "clothes", 
+          "lenjerie",
+          "underwear", 
+          "femei", 
+          "women", 
+          "barbati", 
+          "men" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "mainene.amr, 8:29" 
+      ]
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame2r2", 
+        "x": 366, 
+        "y": 597, 
+        "name": "Haine femei", 
+        "keywords": [
+          "-ame2r2",
+          "-ame2r", 
+          "-ame2", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women", 
+          "rochii", 
+          "dresses" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame2l1", 
+        "x": 398, 
+        "y": 584, 
+        "name": "Covoare", 
+        "keywords": [
+          "-ame2l1",
+          "-ame2l", 
+          "-ame2", 
+          "covoare", 
+          "mochete", 
+          "carpets" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame2r3", 
+        "x": 380, 
+        "y": 625, 
+        "name": "Cosmetica", 
+        "keywords": [
+          "-ame2r3", 
+          "-ame2r", 
+          "-ame2", 
+          "cosmetica", 
+          "manichiura", 
+          "machiaje", 
+          "farduri", 
+          "makeup", 
+          "forfecute", 
+          "periute", 
+          "manicure", 
+          "nail", 
+          "cosmetics", 
+          "beauty", 
+          "nail_scissors", 
+          "brushes" 
+        ], 
+        "contacts": "", 
+        "comments": "Unelte de manichiura, cosmetica, machiaj" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame2l2", 
+        "x": 409, 
+        "y": 610, 
+        "name": "Mercerie", 
+        "keywords": [
+          "-ame2l2", 
+          "-ame2l", 
+          "-ame2", 
+          "mercerie", 
+          "haberdasher",
+          "snururi", 
+          "cords", 
+          "strings", 
+          "ties", 
+          "panglici", 
+          "ribbons" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame2r4", 
+        "x": 379, 
+        "y": 648, 
+        "name": "Electrice", 
+        "keywords": [
+          "-ame2r4", 
+          "-ame2r", 
+          "-ame2", 
+          "electrice", 
+          "lampi", 
+          "veioze", 
+          "resouri", 
+          "appliances", 
+          "electrical_devices", 
+          "lamps", 
+          "nightlights", 
+          "bedside_lamps", 
+          "hot_plates" 
+        ], 
+        "contacts": "", 
+        "comments": "Electrice diverse: lampi, veioze, resouri" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame2l3", 
+        "x": 426, 
+        "y": 632, 
+        "name": "Cafenea", 
+        "keywords": [
+          "-ame2l3", 
+          "-ame2l", 
+          "-ame2", 
+          "mancare", 
+          "mincare", 
+          "racoritoare", 
+          "cafenea", 
+          "restaurant" 
+        ], 
+        "contacts": "", 
+        "comments": "Cafenea cu sala de mese" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "mainene.amr, 13:38", 
+        "right comes before left for -ame3" 
+      ]
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3", 
+        "x": 465, 
+        "y": 485, 
+        "name": "Iesire", 
+        "keywords": [ 
+          "-ame3", 
+          "-ame", 
+          "-ae", 
+          "iesire", 
+          "evacuare", 
+          "exit" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3r1", 
+        "x": 463, 
+        "y": 510, 
+        "name": "Haine femei", 
+        "keywords": [
+          "-ame3r1", 
+          "-ame3r", 
+          "-ame3", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3r2", 
+        "x": 473, 
+        "y": 527, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-ame3r2", 
+          "-ame3r", 
+          "-ame3", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3r3", 
+        "x": 488, 
+        "y": 556, 
+        "name": "Spatiu liber", 
+        "keywords": [
+          "-ame3r3", 
+          "-ame3r", 
+          "-ame3", 
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3r4", 
+        "x": 495, 
+        "y": 572, 
+        "name": "Oglinzi si tablouri", 
+        "keywords": [
+          "-ame3r4", 
+          "-ame3r", 
+          "-ame3", 
+          "tablouri", 
+          "oglinzi", 
+          "paintings", 
+          "mirrors" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main exit 3 left" 
+      ]
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3l1", 
+        "x": 487, 
+        "y": 500, 
+        "name": "Haine si pantofi femei", 
+        "keywords": [
+          "-ame3l1", 
+          "-ame3l", 
+          "-ame3", 
+          "haine", 
+          "femei", 
+          "rochii", 
+          "pantofi", 
+          "clothes", 
+          "women", 
+          "dresses", 
+          "shoes" 
+        ], 
+        "contacts": "", 
+        "comments": "Rochii si pantofi femei mai eleganti cu toc mic" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3l2", 
+        "x": 499, 
+        "y": 519, 
+        "name": "Transperante Thermoroll", 
+        "keywords": [
+          "-ame3l2", 
+          "-ame3l", 
+          "-ame3", 
+          "transperante", 
+          "jaluzele", 
+          "storuri", 
+          "role", 
+          "ferestre", 
+          "shades", 
+          "windows" 
+        ], 
+        "contacts": "", 
+        "comments": "Transperante pentru geamuri" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3l3", 
+        "x": 506, 
+        "y": 534, 
+        "name": "Service GSM", 
+        "keywords": [
+          "-ame3l3", 
+          "-ame3l", 
+          "-ame3", 
+          "gsm", 
+          "telefoane", 
+          "service", 
+          "decodari", 
+          "reparatii", 
+          "phones", 
+          "repairs", 
+          "decoding" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3l4", 
+        "x": 513, 
+        "y": 549, 
+        "name": "Nepal money transfer", 
+        "keywords": [
+          "-ame3l4", 
+          "-ame3l", 
+          "-ame3", 
+          "nepal", 
+          "money", 
+          "transfer", 
+          "bank" 
+        ], 
+        "contacts": "", 
+        "comments": "Transfer bani catre Nepal, numai pentru nepalezi.\nMoney transfers to Nepal, for Nepalese only." 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame3l5", 
+        "x": 521, 
+        "y": 563, 
+        "name": "Amanet", 
+        "keywords": [
+          "-ame3l5", 
+          "-ame3l", 
+          "-ame3", 
+          "amanet", 
+          "pawnshop" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley diagonal start", 
+        "diagonalandcompletions.amr 0:00" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl1", 
+        "x": 328, 
+        "y": 505, 
+        "name": "Mercerie", 
+        "keywords": [
+          "-adl1", 
+          "-adl", 
+          "-ad", 
+          "mercerie", 
+          "haberdasher",
+          "panglici", 
+          "haberdasher", 
+          "ribbons" 
+        ], 
+        "contacts": "", 
+        "comments": "Magazin destul de mare cu produse de machiaj" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl2", 
+        "x": 328, 
+        "y": 493, 
+        "name": "Costume barbati cu papion", 
+        "keywords": [
+          "-adl2", 
+          "-adl", 
+          "-ad", 
+          "costume", 
+          "barbati", 
+          "haine", 
+          "clothes", 
+          "suits", 
+          "men" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adcl2", 
+        "x": 339, 
+        "y": 493, 
+        "name": "Mercerie", 
+        "keywords": [
+          "-adcl2", 
+          "-adc", 
+          "-ad", 
+          "mercerie", 
+          "haberdasher", 
+          "strings", 
+          "ties", 
+          "panglici", 
+          "ribbons" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adcr1", 
+        "x": 350, 
+        "y": 519, 
+        "name": "Machiaje", 
+        "keywords": [
+          "-adcr1", 
+          "-adc", 
+          "-ad", 
+          "machiaje", 
+          "farduri", 
+          "ace_de_par", 
+          "hairpins", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adcr2", 
+        "x": 350, 
+        "y": 500, 
+        "name": "Cosmetice", 
+        "keywords": [
+          "-adcr2", 
+          "-adc", 
+          "-ad", 
+          "cosmetice", 
+          "cosmetics" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adcr3", 
+        "x": 347, 
+        "y": 488, 
+        "name": "Agrafe de par, cosmetice", 
+        "keywords": [
+          "-adcr3", 
+          "-adc", 
+          "-ad", 
+          "cosmetice", 
+          "cosmetics", 
+          "femei", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adr1", 
+        "x": 357, 
+        "y": 490, 
+        "name": "Haine femei", 
+        "keywords": [
+          "-adr1", 
+          "-adr", 
+          "-ad", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adr2", 
+        "x": 361, 
+        "y": 415, 
+        "name": "Tesaturi", 
+        "keywords": [
+          "-adr2", 
+          "-adr", 
+          "-ad", 
+          "tesaturi", 
+          "cloths", 
+          "fabrics" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adcr4", 
+        "x": 349, 
+        "y": 483, 
+        "name": "Palarii femei, bentite", 
+        "keywords": [
+          "-adcr4", 
+          "-adc", 
+          "-ad", 
+          "palarii", 
+          "femei", 
+          "hats", 
+          "women", 
+          "mercerie", 
+          "haberdasher" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adcr5", 
+        "x": 348, 
+        "y": 508, 
+        "name": "Machiaje", 
+        "keywords": [
+          "-adcr5", 
+          "-adc", 
+          "-ad", 
+          "machiaje", 
+          "femei", 
+          "makeup", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "end of adc's in diagonalcrossmaingood.amr, 5:32" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl3", 
+        "x": 328, 
+        "y": 479, 
+        "name": "Haine femei si barbati, tesaturi", 
+        "keywords": [
+          "-adl3", 
+          "-adl", 
+          "-ad", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women", 
+          "barbati", 
+          "men", 
+          "stofe", 
+          "tesaturi", 
+          "cloths", 
+          "fabrics" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl4", 
+        "x": 338, 
+        "y": 472, 
+        "name": "Haine femei si palarii", 
+        "keywords": [
+          "-adl4", 
+          "-adl", 
+          "-ad", 
+          "palarii", 
+          "hats", 
+          "rochii", 
+          "stofe", 
+          "tesaturi", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women", 
+          "dresses", 
+          "cloths", 
+          "fabrics" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl6", 
+        "x": 355, 
+        "y": 448, 
+        "name": "Haine, rochii de femei", 
+        "keywords": [
+          "-adl6", 
+          "-adl", 
+          "-ad", 
+          "haine", 
+          "rochii", 
+          "femei", 
+          "dresses", 
+          "women", 
+          "clothes" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl7", 
+        "x": 354, 
+        "y": 409, 
+        "name": "Haine copii", 
+        "keywords": [
+          "-adl7", 
+          "-adl", 
+          "-ad", 
+          "haine", 
+          "copii", 
+          "clothes", 
+          "children" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl5", 
+        "x": 350, 
+        "y": 471, 
+        "name": "Stofe si tesaturi", 
+        "keywords": [
+          "-adl5", 
+          "-adl", 
+          "-ad", 
+          "haine", 
+          "clothes", 
+          "stofe", 
+          "tesaturi", 
+          "cloths", 
+          "fabrics" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "diagonalandcompletions.amr, 2:31, sint chiar sub al doilea luminator unde se intilnesc toate", 
+        "si ies dintr-un magazin imens cu haine" 
+      ] 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "diagonalandcompletions.amr, 4:07, ies in sfirsit din marea intersectie" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-amd", 
+        "x": 373, 
+        "y": 491, 
+        "name": "Haine si stofe", 
+        "keywords": [
+          "-amd", 
+          "-am", 
+          "haine", 
+          "clothes", 
+          "stofe", 
+          "tesaturi", 
+          "cloths", 
+          "fabrics", 
+          "rochii", 
+          "femei", 
+          "dresses", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl6", 
+        "x": 345, 
+        "y": 458, 
+        "name": "Stofe is tesaturi", 
+        "keywords": [
+          "-adl6", 
+          "-adl", 
+          "-ad", 
+          "stofe", 
+          "tesaturi", 
+          "cloths" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley diagonal cross ade1", 
+        "diagonalandcompletions.amr, 4:48" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ade1", 
+        "x": 412, 
+        "y": 428, 
+        "name": "Haine si stofe", 
+        "keywords": [ 
+          "-ade1", 
+          "-ade", 
+          "-ad", 
+          "haine", 
+          "clothes", 
+          "tesaturi", 
+          "stofe", 
+          "cloths" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "verifica -ade2-ul" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ade2", 
+        "x": 395, 
+        "y": 363, 
+        "name": "Haine si stofe", 
+        "keywords": [ 
+          "-ade2", 
+          "-ade", 
+          "-ad", 
+          "haine", 
+          "clothes", 
+          "tesaturi", 
+          "stofe", 
+          "cloths" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl8", 
+        "x": 346, 
+        "y": 386, 
+        "name": "Pantofi femei", 
+        "keywords": [
+          "-adl8", 
+          "-adl", 
+          "-ad", 
+          "pantofi", 
+          "femei", 
+          "shoes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl9", 
+        "x": 345, 
+        "y": 371, 
+        "name": "DPD Collect", 
+        "keywords": [
+          "-adl9", 
+          "-adl", 
+          "-ad", 
+          "dpd", 
+          "curier", 
+          "shipping" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "verifica -adr3" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adr3", 
+        "x": 361, 
+        "y": 351, 
+        "name": "Haine copii", 
+        "keywords": [
+          "-adr3", 
+          "-adr", 
+          "-ad", 
+          "haine", 
+          "copii", 
+          "clothes", 
+          "children" 
+        ], 
+        "contacts": "", 
+        "comments": "Sepci si haine copii" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adr4", 
+        "x": 361, 
+        "y": 328, 
+        "name": "Rochii femei", 
+        "keywords": [
+          "-adr4", 
+          "-adr", 
+          "-ad", 
+          "rochii", 
+          "femei", 
+          "dresses", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-adl10", 
+        "x": 345, 
+        "y": 352, 
+        "name": "Argint", 
+        "keywords": [
+          "-adl10", 
+          "-adl", 
+          "-ad", 
+          "argint", 
+          "bijuterii", 
+          "silver", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley diagonal cross anw", 
+        "diagonalandcompletions.amr, 6:04" 
+      ] 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley diagonal to ne 1" 
+      ] 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "continue diagonalandcompletions 9:45" 
+      ] 
+    }, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NW left start", 
+        "alley NW was done on paper" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl1",
+        "x": 211, 
+        "y": 575,
+        "name": "Centru de copiere",
+        "keywords": [
+          "-anwl1",
+          "-anwl",
+          "-anw",
+          "xerox", 
+          "copy_center", 
+          "tiparire", 
+          "printare", 
+          "printing", 
+          "birotica" 
+        ], 
+        "contacts": "",
+        "comments": "Xerox, 1 leu pe pagina A4 alb negru" 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl2",
+        "x": 217, 
+        "y": 566,
+        "name": "Lenjerie",
+        "keywords": [
+          "-anwl2",
+          "-anwl",
+          "-anw",
+          "lenjerie", 
+          "chiloti_barbatesti", 
+          "underwear", 
+          "linen", 
+          "lingerie", 
+          "bedding", 
+          "lenjerie_intima", 
+          "dama", 
+          "femei", 
+          "women", 
+          "barbati", 
+          "men" 
+        ], 
+        "contacts": "",
+        "comments": "Lenjerie, magazin destul de mare." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl3",
+        "x": 225, 
+        "y": 551,
+        "name": "Ciorapi dama",
+        "keywords": [
+          "-anwl3",
+          "-anwl",
+          "-anw",
+          "ciorapi_dama", 
+          "stockings", 
+          "women" 
+        ], 
+        "contacts": "",
+        "comments": "Ciorapi dama, gama variata." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl4",
+        "x": 231, 
+        "y": 536,
+        "name": "Electrice",
+        "keywords": [
+          "-anwl4",
+          "-anwl",
+          "-anw",
+          "electrice", 
+          "telecomenzi", 
+          "telecomanda", 
+          "remote_controls", 
+          "baterii", 
+          "electric_battery", 
+          "batteries", 
+          "lupa_de_masa" 
+        ], 
+        "contacts": "",
+        "comments": "Magazin mic cu diverse electrice." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl5",
+        "x": 236, 
+        "y": 527,
+        "name": "Articole pentru casa si menaj",
+        "keywords": [
+          "-anwl5",
+          "-anwl",
+          "-anw",
+          "decoratii", 
+          "casa", 
+          "house", 
+          "decorations",
+          "ceasuri", 
+          "clocks", 
+          "bucatarie", 
+          "kitchen", 
+          "sufragerie", 
+          "living_room", 
+          "cani", 
+          "mugs", 
+          "ustensile_bucatarie", 
+          "appliances", 
+          "flori_artificiale", 
+          "artificial_flowers", 
+          "flowers" 
+        ], 
+        "contacts": "",
+        "comments": "Articole de casa si de menaj. Ar trebui vizitat de o femeie care doreste sa isi faca bucataria si sufrageria mai primitoare. Ceasuri mari la aproximativ 350 lei." 
+      }
+    },
+
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl6",
+        "x": 250, 
+        "y": 492,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwl6",
+          "-anwl",
+          "-anw",
+          "haine", 
+          "clothes", 
+          "imbracaminte", 
+          "femei", 
+          "women", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Haine pentru femei, ceva mai elegante." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl7",
+        "x": 262, 
+        "y": 461,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwl7",
+          "-anwl",
+          "-anw",
+          "haine", 
+          "clothes", 
+          "imbracaminte", 
+          "femei", 
+          "women", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Haine pentru femei, ceva mai elegante." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl8",
+        "x": 273, 
+        "y": 431,
+        "name": "Stofa mobila",
+        "keywords": [
+          "-anwl8",
+          "-anwl",
+          "-anw",
+          "stofe", 
+          "fabrics", 
+          "cloths", 
+          "mobila", 
+          "furniture", 
+          "covoare", 
+          "carpets", 
+          "musama", 
+          "oilcloth", 
+          "traverse", 
+          "mocheta" 
+        ], 
+        "contacts": "",
+        "comments": "Stofa pentru mobila, piele sintetica, covoare, musama si multe altele din aceeasi categorie. Traversa este un covor de plastic lung care poate fi taiat la lungime." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl9",
+        "x": 286, 
+        "y": 411,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwl9",
+          "-anwl",
+          "-anw",
+          "haine", 
+          "clothes", 
+          "imbracaminte", 
+          "femei", 
+          "women", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Haine pentru femei, ceva mai scumpe si mai sexy." 
+      }
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl10",
+        "x": 294, 
+        "y": 394,
+        "name": "Imbracaminte copii",
+        "keywords": [
+          "-anwl10",
+          "-anwl",
+          "-anw",
+          "imbracaminte_copii", 
+          "children_clothes", 
+          "haine_copii", 
+          "bumbac", 
+          "cotton" 
+        ], 
+        "contacts": "",
+        "comments": "Haine din bumbac pentru copii, ieftinite la jumate in mai 2026."
+      }
+    },
+
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl11",
+        "x": 330, 
+        "y": 316,
+        "name": "Imbracaminte copii",
+        "keywords": [
+          "-anwl11",
+          "-anwl",
+          "-anw", 
+          "imbracaminte_copii", 
+          "haine_copii", 
+          "children_clothes", 
+          "pantofi_copii", 
+          "children_shoes", 
+          "incaltaminte_copii" 
+        ],
+        "contacts": "",
+        "comments": "Gama foarte variata de haine (bumbac si plastic) si incaltaminte pentru copii."
+      }
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl12",
+        "x": 337, 
+        "y": 301,
+        "name": "Lenjerie",
+        "keywords": [
+          "-anwl12",
+          "-anwl",
+          "-anw",
+          "lenjerie",
+          "linen", 
+          "batiste", 
+          "handkerchief", 
+          "fata_de_perna", 
+          "fete_de_perna", 
+          "pillowcases", 
+          "bumbac", 
+          "cotton", 
+          "fata_de_masa", 
+          "tablecloths", 
+          "fete_de_masa", 
+          "cearsafuri", 
+          "bed_sheet" 
+        ],
+        "contacts": "",
+        "comments": "Lenjerie din bumbac"
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl13",
+        "x": 339, 
+        "y": 288,
+        "name": "electrice",
+        "keywords": [
+          "-anwl13",
+          "-anwl",
+          "-anw",
+          "electrice", 
+          "becuri", 
+          "light_bulbs", 
+          "veioze", 
+          "lamps", 
+          "baterii", 
+          "batteries", 
+          "telecomenzi", 
+          "remote_controls" 
+        ], 
+        "contacts": "",
+        "comments": "Electrice variate din categoria celor din cuvintele cheie." 
+      }
+    },
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwl14",
+        "x": 351, 
+        "y": 276,
+        "name": "ING",
+        "keywords": [
+          "-anwl14",
+          "-anwl",
+          "-anw",
+          "ing", 
+          "banca", 
+          "bank" 
+        ], 
+        "contacts": "",
+        "comments": "Aceasta intrare este inchisa, se intra numai de pe Sos. Colentina." 
+      }
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl15",
+        "x": 360, 
+        "y": 273,
+        "name": "Adimai",
+        "keywords": [
+          "-anwl15",
+          "-anwl",
+          "-anw",
+          "vatelina", 
+          "tesaturi", 
+          "fete_de_pat", 
+          "fata_de_pat", 
+          "linen", 
+          "bedding" 
+        ], 
+        "contacts": "",
+        "comments": "Au o gama variata de tesaturi folosite ca fete de canapea, pat etc. Vatelina este o folie de burete folosita pentru canapele, paturi sau orice altceva." 
+      } 
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl16",
+        "x": 367, 
+        "y": 267,
+        "name": "Produse din piele",
+        "keywords": [
+          "-anwl16",
+          "-anwl",
+          "-anw",
+          "genti", 
+          "bags", 
+          "handbags", 
+          "cases", 
+          "sacose", 
+          "valize", 
+          "suitcases", 
+          "curele", 
+          "belts", 
+          "waist-belts", 
+          "piele", 
+          "leather" 
+        ],
+        "contacts": "",
+        "comments": "Produse din piele si plastic, genti, sacose, curele, valize, au curele barbatesti si la 90 lei."
+      }
+    },
+    {
+      "action": "insert",
+      "marker": {
+        "id": "-anwl17",
+        "x": 380, 
+        "y": 260,
+        "name": "Plantfestin",
+        "keywords": [
+          "-anwl17",
+          "-anwl",
+          "-anw",
+          "plantfestin",
+          "detergent",
+          "sapun", 
+          "cosmetice", 
+          "cosmetics", 
+          "bio", 
+          "organic",
+          "eco",
+          "ecologic", 
+          "naturist", 
+          "aliment", 
+          "food", 
+          "ceai",
+          "tee", 
+          "mancare", 
+          "mincare" 
+        ],
+        "contacts": "",
+        "comments": "Magazin naturist mare cu o gama larga de produse"
+      }
+    },
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NW right start" 
+      ] 
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr1", 
+        "x": 245, 
+        "y": 564,
+        "name": "Moneygold",
+        "keywords": [
+          "-anwr1",
+          "-anwr",
+          "-anw",
+          "casa_de_schimb_valutar", 
+          "schimb_valutar", 
+          "exchange", 
+          "valuta", 
+          "amanet", 
+          "pawnshop", 
+          "bijuterii",
+          "jewelry", 
+          "telefoane", 
+          "phones", 
+          "electronice", 
+          "electornics", 
+          "ceasuri", 
+          "watches" 
+        ], 
+        "contacts": "",
+        "comments": "Casa de schimb valutar, amanet, magazin de bijuterii si electronice." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr2", 
+        "x": 268, 
+        "y": 517,
+        "name": "Spatiu liber",
+        "keywords": [
+          "-anwr2",
+          "-anwr",
+          "-anw",
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro",
+        "comments": "Spatiu comercial liber de inchiriat." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr3", 
+        "x": 281, 
+        "y": 482,
+        "name": "Spatiu liber",
+        "keywords": [
+          "-anwr3",
+          "-anwr",
+          "-anw",
+          "spatiu", 
+          "comercial", 
+          "liber", 
+          "free_space", 
+          "for_rent", 
+          "available", 
+          "empty", 
+          "disponibil", 
+          "inchiriat", 
+          "to_let" 
+        ], 
+        "contacts": "https://bucurobor.ro",
+        "comments": "Spatiu comercial liber de inchiriat." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr4", 
+        "x": 293, 
+        "y": 457,
+        "name": "Imbracaminte femei", 
+        "keywords": [
+          "-anwr4",
+          "-anwr",
+          "-anw",
+          "haine", 
+          "clothes", 
+          "imbracaminte", 
+          "femei", 
+          "women", 
+          "dama", 
+          "bluze", 
+          "blouses", 
+          "shirt", 
+          "rochii", 
+          "dresses" 
+        ], 
+        "contacts": "",
+        "comments": "Haine femei ceva mai finute." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr5", 
+        "x": 304, 
+        "y": 427,
+        "name": "Posete si curele din piele",
+        "keywords": [
+          "-anwr5",
+          "-anwr",
+          "-anw",
+          "posete", 
+          "handbags", 
+          "purses", 
+          "curele", 
+          "belts", 
+          "waist_belts", 
+          "piele", 
+          "leather" 
+        ], 
+        "contacts": "",
+        "comments": "Posete si curele din piele fina fabricata in Italia." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr6", 
+        "x": 318, 
+        "y": 397,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwr6",
+          "-anwr",
+          "-anw",
+          "haine", 
+          "clothes", 
+          "imbracaminte", 
+          "women", 
+          "femei", 
+          "dama", 
+          "rochii", 
+          "dresses" 
+        ], 
+        "contacts": "",
+        "comments": "Rochii femei, ceva mai stilate." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr7", 
+        "x": 328, 
+        "y": 373,
+        "name": "Incaltaminte femei",
+        "keywords": [
+          "-anwr7",
+          "-anwr",
+          "-anw",
+          "incaltaminte", 
+          "pantofi", 
+          "shoes", 
+          "femei", 
+          "women", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Incaltaminte femei, sport si pantofi cu toc." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr8", 
+        "x": 339, 
+        "y": 347,
+        "name": "Imbracaminte femei",
+        "keywords": [
+          "-anwr8",
+          "-anwr",
+          "-anw",
+          "imbracaminte", 
+          "clothes", 
+          "femei", 
+          "women", 
+          "dama" 
+        ], 
+        "contacts": "",
+        "comments": "Camasi de noapte elegante." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr9", 
+        "x": 346, 
+        "y": 331,
+        "name": "Incaltaminte femei si barbati",
+        "keywords": [
+          "-anwr9",
+          "-anwr",
+          "-anw", 
+          "incaltaminte", 
+          "shoes", 
+          "pantofi", 
+          "barbati", 
+          "men", 
+          "femei", 
+          "women", 
+          "dama"
+        ], 
+        "contacts": "",
+        "comments": "Pantofi femei." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr10", 
+        "x": 354, 
+        "y": 303,
+        "name": "Automat cafea",
+        "keywords": [
+          "-anwr10",
+          "-anwr",
+          "-anw",
+          "cafea", 
+          "coffee" 
+        ], 
+        "contacts": "",
+        "comments": "Automat mare pentru cafea cu lapte, cred ca functioneaza." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr11", 
+        "x": 367, 
+        "y": 292,
+        "name": "Mercerie",
+        "keywords": [
+          "-anwr11",
+          "-anwr",
+          "-anw",
+          "mercerie", 
+          "snururi", 
+          "haberdasher", 
+          "cords", 
+          "strings", 
+          "ties", 
+          "panglici", 
+          "ribbons", 
+          "tesaturi", 
+          "fabrics" 
+        ], 
+        "contacts": "",
+        "comments": "Magazin mare cu produse similare cu cele din cuvintele cheie." 
+      }
+    }, 
+    { 
+      "action": "insert",
+      "marker": {
+        "id": "-anwr12", 
+        "x": 380, 
+        "y": 286,
+        "name": "Haine din piele si blana Ariela",
+        "keywords": [
+          "-anwr12",
+          "-anwr",
+          "-anw",
+          "haine", 
+          "clothes", 
+          "imbracaminte", 
+          "blana", 
+          "fur", 
+          "piele", 
+          "leather" 
+        ], 
+        "contacts": "",
+        "comments": "Haine din piele si blana, reducere 10%" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwr13", 
+        "x": 384, 
+        "y": 284,
+        "name": "Automat plati", 
+        "keywords": [ 
+          "-anwr13", 
+          "-anwr", 
+          "-anw", 
+          "automat", 
+          "punct_de_plata", 
+          "plati", 
+          "plata", 
+          "telefoane", 
+          "paypoint", 
+          "mobile", 
+          "cell_phones", 
+          "phones", 
+          "subscription" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NW exit 1" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe1", 
+        "x": 249, 
+        "y": 517, 
+        "name": "Iesire", 
+        "keywords": [ 
+          "-anwe1", 
+          "-anwe", 
+          "-ae", 
+          "iesire", 
+          "evacuare", 
+          "exit" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe1r1", 
+        "x": 195, 
+        "y": 504, 
+        "name": "Toaleta", 
+        "keywords": [
+          "-amr17", 
+          "-amr", 
+          "-am", 
+          "toaleta", 
+          "restroom", 
+          "toilet", 
+          "lavatory", 
+          "wc" 
+        ], 
+        "contacts": "", 
+        "comments": "Inchis intre 12:30 - 13:00 si 17:00 - 17:30 pentru igienizare" 
+      } 
+    }, 
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NW exit 2", 
+        "nwe23nee23.amr, 4:40" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2", 
+        "x": 305, 
+        "y": 390, 
+        "name": "Iesire", 
+        "keywords": [ 
+          "-anwe2", 
+          "-anwe", 
+          "-ae", 
+          "iesire", 
+          "evacuare", 
+          "exit" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2l1", 
+        "x": 270, 
+        "y": 390, 
+        "name": "Carne de porc", 
+        "keywords": [ 
+          "-anwe2l1", 
+          "-anwe2l", 
+          "-anwe", 
+          "carne", 
+          "porc", 
+          "romania", 
+          "romanesc", 
+          "pork", 
+          "meat" 
+        ], 
+        "contacts": "", 
+        "comments": "Inchis temporar din motive tehnice" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2l2", 
+        "x": 243, 
+        "y": 376, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-anwe2l2", 
+          "-anwe2l", 
+          "-anwe", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women", 
+          "tricotaje", 
+          "romania", 
+          "lina", 
+          "lana", 
+          "wool", 
+          "casmir", 
+          "cashmere", 
+          "matase", 
+          "silk", 
+          "bumbac", 
+          "cotton", 
+          "acril", 
+          "acryl" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2l3", 
+        "x": 215, 
+        "y": 363, 
+        "name": "Automat plati", 
+        "keywords": [ 
+          "-anwe2l3", 
+          "-anwe2l", 
+          "-anwe", 
+          "automat", 
+          "punct_de_plata", 
+          "plati", 
+          "plata", 
+          "telefoane", 
+          "paypoint", 
+          "mobile", 
+          "cell_phones", 
+          "phones", 
+          "subscription" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "nwe23nee23.amr, 1:55" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2r1", 
+        "x": 299, 
+        "y": 371, 
+        "name": "Iconite", 
+        "keywords": [ 
+          "-anwe2r1", 
+          "-anwe2r", 
+          "-anwe", 
+          "iconite",
+          "christian_icons", 
+          "bijuterii", 
+          "jewelry" 
+        ], 
+        "contacts": "", 
+        "comments": "Iconite metal" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2r2", 
+        "x": 271, 
+        "y": 356, 
+        "name": "Broaste de usa", 
+        "keywords": [ 
+          "-anwe2r2", 
+          "-anwe2r", 
+          "-anwe", 
+          "broaste_usa", 
+          "usi", 
+          "locks", 
+          "door_locks", 
+          "chei", 
+          "keys", 
+          "service" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2r3", 
+        "x": 244, 
+        "y": 344, 
+        "name": "Ciorapi bumbac si haine femei", 
+        "keywords": [ 
+          "-anwe2r3", 
+          "-anwe2r", 
+          "-anwe", 
+          "ciorapi", 
+          "bumbac", 
+          "socks", 
+          "cotton", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "Ciorapi barbati bumbac, 12 lei / 2 perechi" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "nwe23nee23.amr, 4:40" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2r4", 
+        "x": 223, 
+        "y": 336, 
+        "name": "Reparatii ceasuri", 
+        "keywords": [ 
+          "-anwe2r4", 
+          "-anwe2r", 
+          "-anwe", 
+          "reparatii", 
+          "ceasuri", 
+          "repairs", 
+          "watches", 
+          "clocks" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "nwe23nee23.amr, 1:55" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2r5", 
+        "x": 272, 
+        "y": 325, 
+        "name": "Haine traditionale romanesti", 
+        "keywords": [ 
+          "-anwe2r5", 
+          "-anwe2r", 
+          "-anwe", 
+          "haine", 
+          "traditionale", 
+          "romania", 
+          "ii", 
+          "fuste", 
+          "steaguri", 
+          "traditional", 
+          "clothes", 
+          "peasant_top", 
+          "peasant_blouse", 
+          "flags", 
+          "skirts" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anwe2r6", 
+        "x": 234, 
+        "y": 284, 
+        "name": "Mobila", 
+        "keywords": [ 
+          "-anwe2r6", 
+          "-anwe2r", 
+          "-anwe", 
+          "mobila", 
+          "furniture", 
+          "canapele", 
+          "coaches", 
+          "sofas" 
+        ], 
+        "contacts": "", 
+        "comments": "Canapele dreptunghiulare negre cu perne albe, sus pe scara la etaj" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "nwe23nee23.amr, 4:40" 
+      ] 
+    }, 
+
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NE right start", 
+        "mainene.amr, 24:32", 
+        "right comes before left for -ane" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner1", 
+        "x": 501, 
+        "y": 476, 
+        "name": "Decoratii casa", 
+        "keywords": [ 
+          "-aner1", 
+          "-aner", 
+          "-ane", 
+          "decoratii", 
+          "casa", 
+          "house", 
+          "decorations",
+          "ceasuri", 
+          "clocks", 
+          "tablouri", 
+          "paintings", 
+          "perne", 
+          "flori_artificiale", 
+          "pillows", 
+          "flowers", 
+          "artificial_flowers", 
+          "icoane", 
+          "icons" 
+        ], 
+        "contacts": "", 
+        "comments": "Magazin mare pentru decorarea casei, are orice iti poti imagina: ceasuri, icoane, pahare, veioze, vase de flori, set de tacimuri ..." 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner2", 
+        "x": 494, 
+        "y": 443, 
+        "name": "In curs de amenajare", 
+        "keywords": [ 
+          "-aner2", 
+          "-aner", 
+          "-ane", 
+          "amenajare", 
+          "renovare", 
+          "renovare", 
+          "renovation", 
+          "refurbishing" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner3", 
+        "x": 485, 
+        "y": 425, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-aner3", 
+          "-aner", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women", 
+          "bluze", 
+          "fuste", 
+          "rochii", 
+          "dresses", 
+          "skirts", 
+          "blouses" 
+        ], 
+        "contacts": "", 
+        "comments": "Haine femei mai colorate destul de frumoase" 
+      }
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner4", 
+        "x": 480, 
+        "y": 413, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-aner4", 
+          "-aner", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women", 
+          "rochii", 
+          "dresses" 
+        ], 
+        "contacts": "", 
+        "comments": "Haine femei mai colorate, reduceri pina la 50%" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner5", 
+        "x": 472, 
+        "y": 399, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-aner5", 
+          "-aner", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women", 
+          "rochii", 
+          "dresses" 
+        ], 
+        "contacts": "", 
+        "comments": "Haine femei mai colorate rochii rosii ceva mai stridente" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley ne exit 2" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner6", 
+        "x": 440, 
+        "y": 335, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-aner6", 
+          "-aner", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner7", 
+        "x": 434, 
+        "y": 326, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-aner7", 
+          "-aner", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women", 
+          "rochii", 
+          "dresses" 
+        ], 
+        "contacts": "", 
+        "comments": "Rochii negre si colorate" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner8", 
+        "x": 429, 
+        "y": 316, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-aner8", 
+          "-aner", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "Haine femei mai elegante" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner9", 
+        "x": 424, 
+        "y": 307, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-aner9", 
+          "-aner", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner10", 
+        "x": 419, 
+        "y": 298, 
+        "name": "Stofe si materiale textile", 
+        "keywords": [ 
+          "-aner10", 
+          "-aner", 
+          "-ane", 
+          "stofe", 
+          "cloths", 
+          "textile", 
+          "fabrics", 
+          "perdele", 
+          "draperii", 
+          "bumbac", 
+          "curtains", 
+          "drapes", 
+          "draperies", 
+          "cotton", 
+          "mobila", 
+          "furniture", 
+          "galerii", 
+          "rails" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-aner11", 
+        "x": 414, 
+        "y": 288, 
+        "name": "Jolidon", 
+        "keywords": [ 
+          "-aner11", 
+          "-aner", 
+          "-ane", 
+          "haine", 
+          "lenjerie", 
+          "femei", 
+          "clothes", 
+          "underwear", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley ne exit 3", 
+        "continue mainene.arm, 29:54" 
+      ] 
+    }, 
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NE left start" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel1", 
+        "x": 470, 
+        "y": 453, 
+        "name": "Traser Gold", 
+        "keywords": [ 
+          "-anel1", 
+          "-anel", 
+          "-ane", 
+          "bijuterii", 
+          "femei", 
+          "jewelry", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel2", 
+        "x": 465, 
+        "y": 442, 
+        "name": "Palarii de femei", 
+        "keywords": [ 
+          "-anel2", 
+          "-anel", 
+          "-ane", 
+          "reparatii", 
+          "transformari", 
+          "comenzi", 
+          "repairs", 
+          "adjustments", 
+          "customizations", 
+          "orders", 
+          "palarii", 
+          "femei", 
+          "hats", 
+          "women", 
+          "croitorie", 
+          "retusuri", 
+          "tailoring", 
+          "sewing", 
+          "tailor_shop" 
+        ], 
+        "contacts": "tel. 0723.678.942", 
+        "comments": "Magazinul este uneori inchis dar afiseaza un numar de telefon pentru contact\nOfera reparatii, transformari si comenzi" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel3", 
+        "x": 461, 
+        "y": 433, 
+        "name": "Jaluzele si perdele", 
+        "keywords": [ 
+          "-anel3", 
+          "-anel", 
+          "-ane", 
+          "blinds", 
+          "shutters", 
+          "shades" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel4", 
+        "x": 457, 
+        "y": 427, 
+        "name": "Haine si palariute de copii", 
+        "keywords": [ 
+          "-anel4", 
+          "-anel", 
+          "-ane", 
+          "haine", 
+          "palarii", 
+          "copii", 
+          "clothes", 
+          "hats", 
+          "children" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel5", 
+        "x": 452, 
+        "y": 420, 
+        "name": "Pantofi femei", 
+        "keywords": [ 
+          "-anel5", 
+          "-anel", 
+          "-ane", 
+          "pantofi",
+          "femei", 
+          "shoes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NE d1", 
+        "mainene.amr, 37:50" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel6", 
+        "x": 439, 
+        "y": 395, 
+        "name": "Pantofi si posete femei", 
+        "keywords": [ 
+          "-anel6", 
+          "-anel", 
+          "-ane", 
+          "pantofi",
+          "pantofi_cu_toc", 
+          "femei", 
+          "posete", 
+          "shoes", 
+          "high_heels", 
+          "women", 
+          "purses" 
+        ], 
+        "contacts": "", 
+        "comments": "Pantofi femei cu toc si virf ascutit, posete femei cu lantisor ..." 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel7", 
+        "x": 427, 
+        "y": 370, 
+        "name": "Croitorie retusuri", 
+        "keywords": [ 
+          "-anel7", 
+          "-anel", 
+          "-ane", 
+          "croitorie", 
+          "retusuri", 
+          "tailoring", 
+          "sewing", 
+          "tailor_shop" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NE d2", 
+        "mainene.amr, 36:22" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel8", 
+        "x": 408, 
+        "y": 336, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-anel8", 
+          "-anel", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "lift utilitar de marfa", 
+        "mainene.amr, 33:40" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel9", 
+        "x": 399, 
+        "y": 319, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-anel9", 
+          "-anel", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anel10", 
+        "x": 390, 
+        "y": 301, 
+        "name": "Autentic", 
+        "keywords": [ 
+          "-anel10", 
+          "-anel", 
+          "-ane", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "Haine femei ceva mai serioase si mai elegante" 
+      } 
+    }, 
+
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NE exit 1" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee1", 
+        "x": 497, 
+        "y": 464, 
+        "name": "Iesire", 
+        "keywords": [ 
+          "-anee1", 
+          "-anee", 
+          "-ae", 
+          "iesire", 
+          "evacuare", 
+          "exit" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NE exit 2 left", 
+        "nw23nee23.amr, 13:56" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2", 
+        "x": 449, 
+        "y": 372, 
+        "name": "Iesire", 
+        "keywords": [ 
+          "-anee2", 
+          "-anee", 
+          "-ae", 
+          "iesire", 
+          "evacuare", 
+          "exit" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2l1", 
+        "x": 459, 
+        "y": 326, 
+        "name": "Fuste", 
+        "keywords": [ 
+          "-anee2l1", 
+          "-anee2l", 
+          "-anee2", 
+          "fuste", 
+          "skirts", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "Fuste colorate" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2c1", 
+        "x": 470, 
+        "y": 361, 
+        "name": "Bijuterii", 
+        "keywords": [ 
+          "-anee2c1", 
+          "-anee2c", 
+          "-anee2", 
+          "bijuterii", 
+          "jewelry", 
+          "otel", 
+          "steel" 
+        ], 
+        "contacts": "", 
+        "comments": "Bijuterii din otel inoxidabil" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2l2", 
+        "x": 479, 
+        "y": 315, 
+        "name": "Costume barbati", 
+        "keywords": [ 
+          "-anee2l2", 
+          "-anee2l", 
+          "-anee2", 
+          "costume", 
+          "barbati", 
+          "suits", 
+          "men", 
+          "papioane", 
+          "bowties", 
+          "camasi", 
+          "shirts" 
+        ], 
+        "contacts": "", 
+        "comments": "Costume, camasi, papioane, palarii negre pentru barbati" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2c2", 
+        "x": 494, 
+        "y": 347, 
+        "name": "Sutiene, bluze", 
+        "keywords": [ 
+          "-anee2c2", 
+          "-anee2c", 
+          "-anee2", 
+          "sutiene", 
+          "bras", 
+          "brassieres", 
+          "bluze", 
+          "blouses", 
+          "chiloti", 
+          "lenjerie_intima", 
+          "lingerie", 
+          "femei", 
+          "dama", 
+          "underwear",
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2l3", 
+        "x": 494, 
+        "y": 307, 
+        "name": "Costume barbati", 
+        "keywords": [ 
+          "-anee2l3", 
+          "-anee2l", 
+          "-anee2", 
+          "costume", 
+          "barbati", 
+          "suits", 
+          "men" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2l4", 
+        "x": 507, 
+        "y": 299, 
+        "name": "Total Wash", 
+        "keywords": [ 
+          "-anee2l4", 
+          "-anee2l", 
+          "-anee2", 
+          "spalatorie", 
+          "laundry" 
+        ], 
+        "contacts": "", 
+        "comments": "Spalatorie" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2l5", 
+        "x": 520, 
+        "y": 294, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-anee2l5", 
+          "-anee2l", 
+          "-anee2", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "Haine femei, mai elegante, rochie grena" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NE exit 2 right", 
+        "nw23nee23.amr, 16:32" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2r1", 
+        "x": 489, 
+        "y": 387, 
+        "name": "Pantofi femei", 
+        "keywords": [ 
+          "-anee2r1", 
+          "-anee2r", 
+          "-anee2", 
+          "pantofi", 
+          "femei", 
+          "shoes", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "Pantofi usori de dama" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2r2", 
+        "x": 510, 
+        "y": 376, 
+        "name": "Rochii femei", 
+        "keywords": [ 
+          "-anee2r2", 
+          "-anee2r", 
+          "-anee2", 
+          "rochii", 
+          "femei", 
+          "dresses", 
+          "women" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee2r3", 
+        "x": 544, 
+        "y": 358, 
+        "name": "Amanet", 
+        "keywords": [ 
+          "-anee2r3", 
+          "-anee2r", 
+          "-anee2", 
+          "amanet", 
+          "pawnshop" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NE exit 3 left", 
+        "nwe23nee23.amr, 8:40" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee3", 
+        "x": 400, 
+        "y": 281, 
+        "name": "Iesire", 
+        "keywords": [ 
+          "-anee3", 
+          "-anee", 
+          "-ae", 
+          "iesire", 
+          "evacuare", 
+          "exit" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee3l1", 
+        "x": 422, 
+        "y": 254, 
+        "name": "Covoare", 
+        "keywords": [ 
+          "-anee3l1", 
+          "-anee3l", 
+          "-anee3", 
+          "covoare", 
+          "carpets", 
+          "lina", 
+          "lana", 
+          "wool", 
+          "musama", 
+          "persane", 
+          "iran", 
+          "oilcloth", 
+          "traverse", 
+          "mocheta" 
+        ], 
+        "contacts": "", 
+        "comments": "Covoare de lina si sintetice, traverse" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee3l2", 
+        "x": 456, 
+        "y": 235, 
+        "name": "Decoratii casa", 
+        "keywords": [ 
+          "-anee3l2", 
+          "-anee3l", 
+          "-anee3", 
+          "decoratii", 
+          "casa", 
+          "house", 
+          "decorations", 
+          "tablouri", 
+          "desene", 
+          "perne", 
+          "drawings", 
+          "pillows", 
+          "cuverturi", 
+          "blankets", 
+          "quilts", 
+          "covers" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee3l3", 
+        "x": 480, 
+        "y": 223, 
+        "name": "Haine femei", 
+        "keywords": [ 
+          "-anee3l3", 
+          "-anee3l", 
+          "-anee3", 
+          "haine", 
+          "femei", 
+          "clothes", 
+          "women"
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley NE exit 3 right", 
+        "nwe23nee23.amr, 11:25" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee3r1", 
+        "x": 438, 
+        "y": 277, 
+        "name": "Suporturi fotografii, cani colorate, pixuri, rame fotografii, foto la minut", 
+        "keywords": [ 
+          "-anee3r1", 
+          "-anee3r", 
+          "-anee3", 
+          "suporturi_fotografii", 
+          "cani_colorate", 
+          "pixuri", 
+          "ballpens", 
+          "rame_fotografii", 
+          "picture_frames", 
+          "birotica", 
+          "office_supplies", 
+          "foto_la_minut", 
+          "instant_photos", 
+          "reincarcare_cartuse", 
+          "cartridge_refilling" 
+        ], 
+        "contacts": "", 
+        "comments": "Foto la minut 20 lei / bucata" 
+      } 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee3r2", 
+        "x": 469, 
+        "y": 260, 
+        "name": "Pungulite cadouri", 
+        "keywords": [ 
+          "-anee3r2", 
+          "-anee3r", 
+          "-anee3", 
+          "pungulite", 
+          "cutiute", 
+          "ambalaje", 
+          "cadouri", 
+          "gift", 
+          "wrappers" 
+        ], 
+        "contacts": "", 
+        "comments": "" 
+      } 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "anwe23nee23.amr, 17:32" 
+      ] 
+    }, 
+    { 
+      "action": "comment", 
+      "text": [ 
+        "diagonalandcompletions.amr, 8:12" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-anee3r3", 
+        "x": 493, 
+        "y": 251, 
+        "name": "Centru copiere", 
+        "keywords": [ 
+          "-anee3r3", 
+          "-anee3r", 
+          "-anee3", 
+          "xerox", 
+          "copy_center", 
+          "tiparire", 
+          "printare", 
+          "printing", 
+          "birotica" 
+        ], 
+        "contacts": "", 
+        "comments": "Xerox" 
+      } 
+    } 
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
