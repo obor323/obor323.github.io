@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "updates": [
+    { 
+      "action": "comment", 
+      "text": [ 
+        "alley main exit 0" 
+      ] 
+    }, 
+    { 
+      "action": "insert", 
+      "marker": { 
+        "id": "-ame0", 
+        "x": 106, 
+        "y": 662, 
+        "name": "Iesire", 
+        "keywords": [ 
+          "-ame0", 
+          "-ame", 
+          "-ae", 
+          "intrare", 
+          "principala", 
+          "iesire", 
+          "entrance", 
+          "main", 
+          "evacuare", 
+          "exit" 
+        ], 
+        "contacts": "", 
+        "comments": "Intrarea principala" 
+      } 
+    } 
+  ] 
+}
+
+
+
+
